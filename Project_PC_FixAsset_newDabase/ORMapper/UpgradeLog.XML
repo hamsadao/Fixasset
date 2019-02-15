@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WilsonORMapper">
+</Property><Property Name="Solution File" Value="D:\WilsonORMapperProd\ORMapper\WilsonORMapper.sln">
+</Property><Property Name="Date" Value="17 พฤษภาคม 2007">
+</Property><Property Name="Time" Value="18:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WilsonORMapper.sln" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\WilsonORMapper.sln">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="WilsonORMapper.csproj" Description="Project file successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\WilsonORMapper.csproj">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="CompiledQuery.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\CompiledQuery.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="CustomProvider.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\CustomProvider.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="IInterceptCommand.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\IInterceptCommand.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\AssemblyInfo.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Connection.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Connection.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Context.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Context.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\DemoLicense.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\DemoLicense.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\EntityKey.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\EntityKey.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Exceptions.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Exceptions.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Instance.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Instance.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\LocalStore.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\LocalStore.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\AttributeMap.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\AttributeMap.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\ChildMap.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\ChildMap.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\EntityMap.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\EntityMap.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\FieldMap.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\FieldMap.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\LookupMap.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\LookupMap.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\ManyMap.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\ManyMap.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\Mappings.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\Mappings.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\ParentMap.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\ParentMap.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Mappings\RelationMap.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Mappings\RelationMap.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Parameter.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Parameter.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Providers\Commands.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Providers\Commands.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Providers\MSCommands.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Providers\MSCommands.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Providers\OracleCommands.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Providers\OracleCommands.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Internals\Providers\ProviderFactory.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Internals\Providers\ProviderFactory.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="IObjectHelper.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\IObjectHelper.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="IObjectNotification.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\IObjectNotification.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="IObjectSet.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\IObjectSet.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="ObjectEnums.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\ObjectEnums.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="ObjectHolder.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\ObjectHolder.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="ObjectList.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\ObjectList.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="ObjectQuery.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\ObjectQuery.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="ObjectReader.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\ObjectReader.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="ObjectSet.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\ObjectSet.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="ObjectSpace.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\ObjectSpace.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="OPathQuery.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\OPathQuery.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="QueryHelper.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\QueryHelper.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Axis.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Axis.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\BaseQuery.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\BaseQuery.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Binary.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Binary.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Context.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Context.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Empty.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Empty.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Expression.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Expression.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Filter.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Filter.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Function.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Function.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Literal.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Literal.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\ObjectExpression.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\ObjectExpression.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OPath.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OPath.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OPathCompiler.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OPathCompiler.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OPathException.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OPathException.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OPathParameter.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OPathParameter.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OPathParameterCollection.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OPathParameterCollection.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OPathParameterTable.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OPathParameterTable.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OrderBy.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OrderBy.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OrderByItem.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OrderByItem.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OrderByItemCollection.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OrderByItemCollection.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OrderByJoin.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OrderByJoin.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\OrderByJoinCollection.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\OrderByJoinCollection.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parameter.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parameter.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parent.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parent.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parser\OPathLexer.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parser\OPathLexer.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parser\OPathParser.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parser\OPathParser.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parser\OPathSortParser.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parser\OPathSortParser.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parser\OPath_lex.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parser\OPath_lex.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Property.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Property.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\TypeFilter.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\TypeFilter.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Unary.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Unary.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="SelectProcedure.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\SelectProcedure.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Transaction.cs" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Transaction.cs">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parser\lex.exe" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parser\lex.exe">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parser\OPath.lex" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parser\OPath.lex">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="Query\Parser\lex.htm" Description="File successfully backed up as D:\WilsonORMapperProd\ORMapper\Backup\Query\Parser\lex.htm">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="WilsonORMapper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WilsonORMapper" Source="WilsonORMapper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WilsonORMapper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WilsonORMapper.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WilsonORMapper" Source="WilsonORMapper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

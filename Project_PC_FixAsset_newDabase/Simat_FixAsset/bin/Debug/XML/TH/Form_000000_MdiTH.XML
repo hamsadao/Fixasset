@@ -1,0 +1,124 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_001000_Mdi</IDCTRL>
+    <IDDESC>ID:001000(Mdi)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStripMenuItem_File</IDCTRL>
+    <IDDESC>ไฟล์</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_MainMenu</IDCTRL>
+    <IDDESC>เมนูหลัก</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Exit</IDCTRL>
+    <IDDESC>ออกโปรแกรม</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStripMenuItem_Edit</IDCTRL>
+    <IDDESC>แก้ไข</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Undo</IDCTRL>
+    <IDDESC>ย้อนกลับ</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Cut</IDCTRL>
+    <IDDESC>ตัด</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Copy</IDCTRL>
+    <IDDESC>คัดลอก</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Paste</IDCTRL>
+    <IDDESC>วาง</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_SelectAllRecords</IDCTRL>
+    <IDDESC>เลือกทั้งหมด</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Find</IDCTRL>
+    <IDDESC>ค้นหา</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>toolStripButton_Cancel</IDCTRL>
+		<IDDESC>ยกเลิก</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Replace</IDCTRL>
+    <IDDESC>แทนที่</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripMenuItem_Window</IDCTRL>
+    <IDDESC>วินโดวส์</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Cascade</IDCTRL>
+    <IDDESC>Cascade</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_TileVertical</IDCTRL>
+    <IDDESC>TileVertical</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_TileHirizontal</IDCTRL>
+    <IDDESC>TileHirizontal</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStripMenuItem_About</IDCTRL>
+    <IDDESC>เกี่ยวกับ</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStripMenuItem_Help</IDCTRL>
+    <IDDESC>ช่วยเหลือ</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_UserManual</IDCTRL>
+    <IDDESC>คู่มือการใช้</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>toolStripButton_Save</IDCTRL>
+		<IDDESC>บันทึก</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Add</IDCTRL>
+    <IDDESC>เพิ่ม</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Edit</IDCTRL>
+    <IDDESC>แก้ไข</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Delete</IDCTRL>
+    <IDDESC>ลบ</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Find</IDCTRL>
+    <IDDESC>ค้นหา</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Export</IDCTRL>
+    <IDDESC>ส่งออก</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripStatusLabel_Server</IDCTRL>
+    <IDDESC>เซิฟเวอร์:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripStatusLabel_DB</IDCTRL>
+    <IDDESC>ฐานข้อมูล:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripStatusLabel_LogOn</IDCTRL>
+    <IDDESC>ชื่อผู้ใช้:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripStatusLabel_Fac</IDCTRL>
+    <IDDESC>บริษัท:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

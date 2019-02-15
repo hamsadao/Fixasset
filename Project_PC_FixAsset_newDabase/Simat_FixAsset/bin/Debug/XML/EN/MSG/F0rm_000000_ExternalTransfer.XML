@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>000001</IDCTRL>
+		<IDDESC>Receive data : "{0}" Complete</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000002</IDCTRL>
+		<IDDESC>TransferQuantity more than Quantity !!"</IDDESC>
+	</Menu>
+</Controls:Controls>

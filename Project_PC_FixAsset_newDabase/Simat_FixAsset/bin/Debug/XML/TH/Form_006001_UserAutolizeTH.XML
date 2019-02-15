@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_006001_UserAutolize</IDCTRL>
+    <IDDESC>ID:006001(UserAutolize)</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_UserID</IDCTRL>
+		<IDDESC>รหัสผู้ใช้งาน:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_FirstName</IDCTRL>
+		<IDDESC>ชื่อ:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Lastname</IDCTRL>
+		<IDDESC>นามสกุล:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Password</IDCTRL>
+		<IDDESC>รหัสผู้ใช้งาน:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Group</IDCTRL>
+		<IDDESC>กลุ่มผู้ใช้งาน:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Department</IDCTRL>
+		<IDDESC>แผนก:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Facility</IDCTRL>
+		<IDDESC>บริษัท:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

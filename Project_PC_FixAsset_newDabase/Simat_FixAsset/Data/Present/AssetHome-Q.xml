@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>SELECT AssetID, AssetName, modelID, SerialNo, areaID, AssetPrice,remark BuildID FROM Asset
+	</Query>
+    <Orderby>order by AssetID </Orderby>
+  </Control>
+</Controls:Controls>

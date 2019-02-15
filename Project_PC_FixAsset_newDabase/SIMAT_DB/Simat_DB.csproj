@@ -1,0 +1,300 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{74F62E89-ECED-4763-9C5E-F2C33A841331}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Simat_DB</RootNamespace>
+    <AssemblyName>Simat_DB</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SimatSoft.CustomControl, Version=1.0.2832.30881, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Simat_FixAsset\Custom Control\SimatSoft.CustomControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+    <Reference Include="WilsonORMapper, Version=4.2.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Dll\WilsonORMapper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GenericDatabase.cs" />
+    <Compile Include="ClassEncrypt.cs" />
+    <Compile Include="ORM\CLS\Area.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\AreaHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Asset.cs" />
+    <Compile Include="ORM\CLS\AssetCheckStock.cs" />
+    <Compile Include="ORM\CLS\AssetCheckStockHome.cs" />
+    <Compile Include="ORM\CLS\AssetHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\AssetImage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\AssetPic.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\AssetPicHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\AssetReceive.cs" />
+    <Compile Include="ORM\CLS\AssetTransfer.cs" />
+    <Compile Include="ORM\CLS\AssetTransferDT.cs" />
+    <Compile Include="ORM\CLS\AssetTransferHD.cs" />
+    <Compile Include="ORM\CLS\AssetTransferHome.cs" />
+    <Compile Include="ORM\CLS\AssetTransferSerial.cs" />
+    <Compile Include="ORM\CLS\FormatBarcodeAreaHome.cs" />
+    <Compile Include="ORM\CLS\FormatBarcodeBuildingHome.cs" />
+    <Compile Include="ORM\CLS\FormatBarcodeFloorHome.cs" />
+    <Compile Include="ORM\CLS\FormatBarcodeDepartmentHome.cs" />
+    <Compile Include="ORM\CLS\FormatBarcodeCustodianHome.cs" />
+    <Compile Include="ORM\CLS\FormatBarcodeModelHome.cs" />
+    <Compile Include="ORM\CLS\FormatBarCodeArea.cs" />
+    <Compile Include="ORM\CLS\FormatBarcodeAssetHome.cs" />
+    <Compile Include="ORM\CLS\Building.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\BuildingHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\CheckStock.cs" />
+    <Compile Include="ORM\CLS\CheckStockHome.cs" />
+    <Compile Include="ORM\CLS\ClassMenuMapping.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\ClassReportMapping.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Custodian.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\CustodianHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Department.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\DepartmentHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Facility.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\FacilityHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Floor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\FloorHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\FormatBarCodeAsset.cs" />
+    <Compile Include="ORM\CLS\FormatBarCodeBuilding.cs" />
+    <Compile Include="ORM\CLS\FormatBarCodeCustodian.cs" />
+    <Compile Include="ORM\CLS\FormatBarCodeDepartment.cs" />
+    <Compile Include="ORM\CLS\FormatBarCodeFloor.cs" />
+    <Compile Include="ORM\CLS\FormatBarCodeModel.cs" />
+    <Compile Include="ORM\CLS\Manager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\ManagerCantConnect.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\ManagerPic.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\ManagerPicCantConnect.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Model.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\ModelHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Podt.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Pohd.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\POHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\POReceive.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\PresentData.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Reason.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\ReasonHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\ReportHome.cs" />
+    <Compile Include="ORM\CLS\RunControl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\RunControlHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Screen.cs" />
+    <Compile Include="ORM\CLS\ScreenHome.cs" />
+    <Compile Include="ORM\CLS\Status.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\StatusHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\SysScreenSubType.cs" />
+    <Compile Include="ORM\CLS\Type.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\TypeHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\Vendor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\VendorHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\WhGroup.cs" />
+    <Compile Include="ORM\CLS\WhgroupAccess.cs" />
+    <Compile Include="ORM\CLS\WhGroupHome.cs" />
+    <Compile Include="ORM\CLS\WhUser.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ORM\CLS\WhuserAccess.cs" />
+    <Compile Include="ORM\CLS\WhuserHome.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Simat_DB.dll" />
+    <Content Include="bin\Debug\Simat_DB.pdb" />
+    <Content Include="bin\Release\Simat_DB.dll" />
+    <Content Include="bin\Release\Simat_DB.pdb" />
+    <Content Include="Data\Present\Menu.xml" />
+    <Content Include="Data\Present\WHUSERHOME-H.xml" />
+    <Content Include="Data\Present\WHUSERHOME-Q.xml" />
+    <Content Include="obj\Debug\Refactor\Simat_DB.dll" />
+    <Content Include="obj\Debug\Simat_DB.dll" />
+    <Content Include="obj\Debug\Simat_DB.pdb" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Release\Simat_DB.dll" />
+    <Content Include="obj\Release\Simat_DB.pdb" />
+    <Content Include="obj\Release\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="obj\Simat_DB.csproj.FileList.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\ResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\Simat_DB.csproj.GenerateResource.Cache" />
+    <None Include="obj\Release\Simat_DB.csproj.GenerateResource.Cache" />
+    <None Include="ORM\Config\Mappings.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="obj\Debug\Simat_DB.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\Release\Simat_DB.Properties.Resources.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

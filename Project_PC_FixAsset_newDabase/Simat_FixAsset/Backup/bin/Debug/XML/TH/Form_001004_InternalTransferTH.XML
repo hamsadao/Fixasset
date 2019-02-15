@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_001004_InternalTransfer</IDCTRL>
+    <IDDESC>ID:001004(การเบิกอุปกรณ์ภายใน)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_TransferNo</IDCTRL>
+    <IDDESC>หมายเลขเอกสารการเบิก:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Date</IDCTRL>
+	  <IDDESC>วันที่:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Type</IDCTRL>
+    <IDDESC>ประเภท:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FormDepartment</IDCTRL>
+    <IDDESC>จากแผนก:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_ToDepartment</IDCTRL>
+    <IDDESC>ถึงแผนก:</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Remark</IDCTRL>
+		<IDDESC>หมายเหตุ:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

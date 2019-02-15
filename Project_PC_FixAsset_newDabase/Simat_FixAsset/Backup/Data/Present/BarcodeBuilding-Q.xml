@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>SELECT buildID,buildName from Building</Query>
+   <Orderby>order by buildID </Orderby>
+  </Control>
+</Controls:Controls>

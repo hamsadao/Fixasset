@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+		<Control>
+			<controlname>panel_Model.sS_MaskedTextBox_ModelNo</controlname>
+			<description>Model No</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>1</min>
+			<max>15</max>
+		</Control>
+		<Control>
+			<controlname>panel_Model.sS_MaskedTextBox_ModelName</controlname>
+			<description>Model Name</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>30</max>
+		</Control>
+		<Control>
+			<controlname>panel_Model.sS_MaskedTextBox_Brand</controlname>
+			<description>Brand</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>30</max>
+		</Control>
+		<Control>
+			<controlname>panel_Model.sS_MaskedTextBox_Value</controlname>
+			<description>Value</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>10</max>
+		</Control>
+</Controls:Controls>

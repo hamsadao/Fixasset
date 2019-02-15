@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_002011_Custodian</IDCTRL>
+    <IDDESC>ID:002011(ผู้ใช้งาน)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_CustodianNo</IDCTRL>
+    <IDDESC>รหัสผู้ใช้งาน:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_LastName</IDCTRL>
+    <IDDESC>นามสกุลผู้ใช้งาน:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FirstName</IDCTRL>
+    <IDDESC>ชื่อผู้ใช้งาน:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_DepartmentNo</IDCTRL>
+    <IDDESC>รหัสแผนก:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_DepartmentName</IDCTRL>
+    <IDDESC>ชื่อแผนก:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FacilityNo</IDCTRL>
+    <IDDESC>บริษัท:</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Remark</IDCTRL>
+		<IDDESC>หมายเหตุ:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

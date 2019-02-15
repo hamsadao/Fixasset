@@ -1,0 +1,6 @@
+bin\Debug\WilsonORMapper.dll
+bin\Debug\WilsonORMapper.pdb
+bin\Debug\WilsonORMapper.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WilsonORMapper.dll
+obj\Debug\WilsonORMapper.pdb

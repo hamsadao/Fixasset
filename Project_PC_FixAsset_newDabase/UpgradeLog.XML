@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Project_PC_FixAsset">
+</Property><Property Name="Solution File" Value="D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Project_PC_FixAsset.sln">
+</Property><Property Name="Date" Value="Friday, May 6, 2016">
+</Property><Property Name="Time" Value="11:35 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Project_PC_FixAsset" Source="Simat_FixAsset\Project_PC_FixAsset.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Project_PC_FixAsset" Source="Simat_FixAsset\Project_PC_FixAsset.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Simat_DB" Source="SIMAT_DB\Simat_DB.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Simat_DB" Source="SIMAT_DB\Simat_DB.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimatSoft.ValidateData" Source="Simat.Validate\SimatSoft.ValidateData.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimatSoft.ValidateData" Source="Simat.Validate\SimatSoft.ValidateData.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimatSoft.ControlBasic" Source="Simat_Control\SimatSoft.ControlBasic.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimatSoft.ControlBasic" Source="Simat_Control\SimatSoft.ControlBasic.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimatSoft.Log" Source="Simat_Log\SimatSoft.Log.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimatSoft.Log" Source="Simat_Log\SimatSoft.Log.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimatSoft.QueryManager" Source="Simat.QueryManager\SimatSoft.QueryManager.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimatSoft.QueryManager" Source="Simat.QueryManager\SimatSoft.QueryManager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimatSoft.ReportManagerWinForm" Source="SimatReport_WinForm\SimatReport_WinForm\SimatSoft.ReportManagerWinForm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SimatSoft.ReportManagerWinForm" Source="SimatReport_WinForm\SimatReport_WinForm\SimatSoft.ReportManagerWinForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Project_PC_FixAsset.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Project_PC_FixAsset.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Simat_DB" Source="SIMAT_DB\Simat_DB.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimatSoft.ValidateData" Source="Simat.Validate\SimatSoft.ValidateData.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimatSoft.ControlBasic" Source="Simat_Control\SimatSoft.ControlBasic.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimatSoft.Log" Source="Simat_Log\SimatSoft.Log.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimatSoft.QueryManager" Source="Simat.QueryManager\SimatSoft.QueryManager.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SimatSoft.ReportManagerWinForm" Source="SimatReport_WinForm\SimatReport_WinForm\SimatSoft.ReportManagerWinForm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

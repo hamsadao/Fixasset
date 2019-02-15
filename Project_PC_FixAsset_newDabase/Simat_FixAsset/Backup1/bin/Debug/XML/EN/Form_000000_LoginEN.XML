@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_001000_Login</IDCTRL>
+		<IDDESC>ID:001000(Login)</IDDESC>
+	</Menu>
+	<Menu>
+    <IDCTRL>LBL_UserID</IDCTRL>
+	<IDDESC>User ID:</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>LBL_Password</IDCTRL>
+	<IDDESC>Password:</IDDESC>
+  </Menu>
+	<Menu>
+		<IDCTRL>LBL_Language</IDCTRL>
+		<IDDESC>Language:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Company</IDCTRL>
+		<IDDESC>Company:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>Button_Login</IDCTRL>
+		<IDDESC>        Login</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>Button_Exit</IDCTRL>
+		<IDDESC>        Exit</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>Button_Config</IDCTRL>
+		<IDDESC>Config</IDDESC>
+	</Menu>
+</Controls:Controls>

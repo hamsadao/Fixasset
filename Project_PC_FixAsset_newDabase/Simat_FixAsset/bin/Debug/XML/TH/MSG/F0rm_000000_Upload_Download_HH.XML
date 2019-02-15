@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>000001</IDCTRL>
+		<IDDESC>คุณยังไม่ได้ทำการเชื่อมต่ออุปกรณ์ !!</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000002</IDCTRL>
+		<IDDESC>นำเข้าข้อมูลเรียบร้อย"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000003</IDCTRL>
+		<IDDESC>ส่งออกไฟล์เรียบร้อย"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000004</IDCTRL>
+		<IDDESC>ไม่พบไฟล์ใน Device"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000005</IDCTRL>
+		<IDDESC>ไฟล์ยังไม่ได้ทำการสร้าง,กรุณาเลือก Table ใหม่อีกครั้ง"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000006</IDCTRL>
+		<IDDESC>ไม่พบพาร์ท"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000007</IDCTRL>
+		<IDDESC>ไม่พบไฟล์"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000008</IDCTRL>
+		<IDDESC>ไม่สามารถเพิ่มข้อมูลลงฐานข้อมูล"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000009</IDCTRL>
+		<IDDESC>ไม่สามารถอ่านไฟล์"</IDDESC>
+	</Menu>
+</Controls:Controls>

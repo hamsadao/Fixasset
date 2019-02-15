@@ -1,0 +1,37 @@
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\ORM\Config\Mappings.config
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\Simat_DB.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\Simat_DB.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.CustomControl.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\WilsonORMapper.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Cryptography.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Secure.License.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csprojAssemblyReference.cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csproj.CoreCompileInputs.cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\ORM\Config\Mappings.config
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\Simat_DB.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\Simat_DB.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.CustomControl.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Secure.License.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Data.MessageScreen.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Cryptography.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csprojAssemblyReference.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\ORM\Config\Mappings.config
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\Simat_DB.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\Simat_DB.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.CustomControl.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Secure.License.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Data.MessageScreen.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\bin\Debug\SimatSoft.Cryptography.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\SIMAT_DB\obj\Debug\Simat_DB.csprojAssemblyReference.cache

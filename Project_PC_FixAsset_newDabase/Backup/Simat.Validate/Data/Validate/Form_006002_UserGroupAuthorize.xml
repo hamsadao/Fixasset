@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+		<Control>
+			<controlname>panel1.sS_MaskedTextBox_GroupID</controlname>
+			<description>User ID</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>1</min>
+			<max>15</max>
+		</Control>
+</Controls:Controls>

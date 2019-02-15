@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <!--  <Control>
+    <name>Facility</name>
+    <description>Facility</description>
+    <defaultvalue></defaultvalue>
+    <entity>{facility.faccode}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select faccode from facility</sqlshowdata>
+  </Control>
+  <Control>
+    <name>Receive</name>
+    <description>Receive Date</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Asset_Receive.ReceiveDate}</entity>
+    <controltype>simatdatetime</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>=</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+  </Control>
+  <Control>
+    <name>PO</name>
+    <description>PO</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Asset_Receive.POID}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select distinct POID from Asset_Receive</sqlshowdata>
+  </Control>
+  <Control>
+    <name>PR</name>
+    <description>PR</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Asset.Customfiled7}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select distinct Customfiled7 from Asset</sqlshowdata>
+  </Control>-->
+</Controls:Controls>

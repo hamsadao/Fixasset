@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Menu>
+    <name></name>
+    <Menuid>41</Menuid>
+    <Profilename>R41-StockAsset</Profilename>
+  </Menu>
+  <Menu>
+    <name></name>
+    <Menuid>42</Menuid>
+    <Profilename>R42-POReceive</Profilename>
+  </Menu>
+	<Menu>
+		<name></name>
+		<Menuid>43</Menuid>
+		<Profilename>Report-Internal_ExternalTransfer</Profilename>
+	</Menu>
+	<Menu>
+		<name></name>
+		<Menuid>44</Menuid>
+		<Profilename>Report-CheckStock</Profilename>
+	</Menu>
+	<Menu>
+		<name></name>
+		<Menuid>45</Menuid>
+		<Profilename>R45-StockAsset</Profilename>
+	</Menu>
+	<Menu>
+		<name></name>
+		<Menuid>46</Menuid>
+		<Profilename>R46-StockAsset</Profilename>
+	</Menu>
+</Controls:Controls>

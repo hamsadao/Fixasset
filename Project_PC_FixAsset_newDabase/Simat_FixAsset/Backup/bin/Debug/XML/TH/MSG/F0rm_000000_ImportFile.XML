@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>000001</IDCTRL>
+		<IDDESC>ยังไม่ทำการเลือกไฟล์</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000002</IDCTRL>
+		<IDDESC>คุณยังไม่ทำการเลือก table"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000003</IDCTRL>
+		<IDDESC>คุณยังไม่ทำการเลือกประเภทไฟล์"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000004</IDCTRL>
+		<IDDESC>ประเภทไฟล์ไม่สอดคล้องกับไฟล์"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000005</IDCTRL>
+		<IDDESC>ไม่สามารถโหลดไฟล์ "</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000006</IDCTRL>
+		<IDDESC>เพิ่มข้อมูลเรียบร้อย"</IDDESC>
+	</Menu>
+</Controls:Controls>

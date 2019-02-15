@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>000001</IDCTRL>
+		<IDDESC>You cann't to connect to device !!</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000002</IDCTRL>
+		<IDDESC>Import Data Complete"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000003</IDCTRL>
+		<IDDESC>Export File To Device Complete"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000004</IDCTRL>
+		<IDDESC>File not found in device"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000005</IDCTRL>
+		<IDDESC>File does not create,Please choose new table again"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000006</IDCTRL>
+		<IDDESC>Path does found"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000007</IDCTRL>
+		<IDDESC>File does not found"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000008</IDCTRL>
+		<IDDESC>Cann't Insert Data to Database"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000009</IDCTRL>
+		<IDDESC>Cann't read file"</IDDESC>
+	</Menu>
+</Controls:Controls>

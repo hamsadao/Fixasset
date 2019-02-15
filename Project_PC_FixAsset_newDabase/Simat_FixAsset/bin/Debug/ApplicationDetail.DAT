@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <ApplicationDetail>
+	<ProjectNo>0001</ProjectNo>
+	<SW_ID>SFASP</SW_ID>
+	<Cust_ID>00000</Cust_ID>
+	<ProjectDesc>FixAsset</ProjectDesc>
+	<SW_Name>SimatFixAsset</SW_Name>
+	<Cust_Name>SimatSoft</Cust_Name>
+	<Version>1.00.00.00</Version>
+  </ApplicationDetail>
+</Controls:Controls>

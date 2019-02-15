@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_AssetNo</controlname>
+		<description>Asset No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>1</min>
+		<max>20</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_AssetName</controlname>
+		<description>Asset Name</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>100</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_ModelID</controlname>
+		<description>Model ID</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_SerailNo</controlname>
+		<description>Serail No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>25</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_TypeNo</controlname>
+		<description>Types No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>1</min>
+		<max>5</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_SupplierNo</controlname>
+		<description>Supplier No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_DepartmentNo</controlname>
+		<description>Department No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_BuildingNo</controlname>
+		<description>Building No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_FloorNo</controlname>
+		<description>Floor No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_AreaNo</controlname>
+		<description>Area No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>1</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_Remark</controlname>
+		<description>Remark</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>100</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_ReasonNo</controlname>
+		<description>Reason No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>5</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_FacilityNo</controlname>
+		<description>Facility No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>5</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_CurrentCustodianNo</controlname>
+		<description>Current Custodian No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_PreviousCustodianNo</controlname>
+		<description>Previous Custodian No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>25</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_PurchasePrice</controlname>
+		<description>Purchase Price</description>
+		<controltype>textbox</controltype>
+		<datatype>DECIMAL</datatype>
+		<min>0</min>
+		<max>10</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_StatusNo</controlname>
+		<description>Status No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>1</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Asset.sS_MaskedTextBox_UserName</controlname>
+		<description>UserName</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>25</max>
+	</Control>
+</Controls:Controls>

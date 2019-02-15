@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>
+		SELECT usID,usFirstName,usLastName,usPass,usGroupID,deptID,FacCode,CreatedDate,ActiveFlag FROM whuser
+	</Query>
+    <Orderby>order by usID </Orderby>
+  </Control>
+</Controls:Controls>

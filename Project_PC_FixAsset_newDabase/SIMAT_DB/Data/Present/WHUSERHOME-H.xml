@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <name>User id</name>
+    <entity>usid</entity>
+    <width>200 </width>
+    <datatype>string </datatype>
+    <format></format>
+	  <align></align>
+
+
+  </Control>
+  <Control>
+	  <name>User name </name>
+	  <entity>usname </entity>
+	  <width>200 </width>
+	  <datatype>string </datatype>
+	  <format></format>
+	  <align></align>
+  
+  </Control>
+  <Control>
+    <name>Last change date </name>
+    <entity>usLstChg </entity>
+    <width>150 </width>
+    <datatype>datetime </datatype>
+    <format>dd-MMM-yyyy</format>
+    <align>center</align>
+  </Control>
+  
+</Controls:Controls>

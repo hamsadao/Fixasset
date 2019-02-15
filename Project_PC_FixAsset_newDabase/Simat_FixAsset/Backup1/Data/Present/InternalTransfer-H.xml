@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	
+	<Control>
+    <name>Asset id</name>
+    <entity>AssetID</entity>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <align>left</align>
+  </Control>
+	<Control>
+    <name>Name</name>
+    <entity>AssetName</entity>
+    <width>200 </width>
+    <datatype>string </datatype>
+    <format></format>
+  </Control>
+	<Control>
+		<name>Serial No</name>
+		<entity>SerialNo</entity>
+		<width>200 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>Model id</name>
+		<entity>modelID</entity>
+		<width>100 </width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+	<Control>
+		<name>Area No</name>
+		<entity>areaID</entity>
+		<width>200 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>Building</name>
+		<entity>BuildID</entity>
+		<width>200 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>Floor</name>
+		<entity>FloorID</entity>
+		<width>200 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>Custodian </name>
+		<entity>CustodianID</entity>
+		<width>200 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>Remark </name>
+		<entity>Remark</entity>
+		<width>200 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	
+</Controls:Controls>

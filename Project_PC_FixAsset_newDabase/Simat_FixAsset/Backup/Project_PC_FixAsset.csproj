@@ -1,0 +1,1618 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5F07B063-2F2D-4AF6-B230-A6C53023691C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SimatSoft.FixAsset</RootNamespace>
+    <AssemblyName>FixAsset</AssemblyName>
+    <StartupObject>SimatSoft.FixAsset.Program</StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <ApplicationIcon>FixAsset.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.BARCODEXLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Asset\AxInterop.BARCODEXLib.DLL</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Interop.BARCODEXLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Asset\Interop.BARCODEXLib.DLL</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.Desktop.Communication, Version=2.8.1584.19264, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Custom Control\OpenNETCF.Desktop.Communication.dll</HintPath>
+    </Reference>
+    <Reference Include="SimatSoft.Cryptography, Version=1.0.2626.20180, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Custom Control\SimatSoft.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="SimatSoft.CustomControl, Version=1.0.2832.30881, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Custom Control\SimatSoft.CustomControl.dll</HintPath>
+    </Reference>
+    <Reference Include="SimatSoft.Data.MessageScreen, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Custom Control\SimatSoft.Data.MessageScreen.dll</HintPath>
+    </Reference>
+    <Reference Include="Simatsoft.Log, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Simat_Log\bin\Debug\Simatsoft.Log.dll</HintPath>
+    </Reference>
+    <Reference Include="Simatsoft.QueryManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Simat_Control\bin\Debug\Simatsoft.QueryManager.dll</HintPath>
+    </Reference>
+    <Reference Include="SimatSoft.Secure.License, Version=1.0.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Custom Control\SimatSoft.Secure.License.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WilsonORMapper, Version=4.2.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Dll\WilsonORMapper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cls\ClassAssetPictoFile.cs" />
+    <Compile Include="Cls\ClassMenuManage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Cls\Class_AuthorizeState.cs" />
+    <Compile Include="Cls\Class_CheckMaster.cs" />
+    <Compile Include="Cls\Class_ConnectionString.cs" />
+    <Compile Include="Cls\Class_MsgToScreen.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Cls\cls_main.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\BaseStackStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\FolderView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\HeaderStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\LeftSpine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\LeftSpine.Designer.cs">
+      <DependentUpon>LeftSpine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\MessageArea.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\MessageArea.Designer.cs">
+      <DependentUpon>MessageArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\MessageList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\RightSpine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\StackStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bin\Debug\Custom Controls\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cls\Prints.cs" />
+    <Compile Include="Cls\RetriveDataToSDF.cs" />
+    <Compile Include="Data\Present\Report\File\R410_Asset_Detail_by_MA.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R410_Asset_Detail_by_MA.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R411_Asset_Detail_by_Receive.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R411_Asset_Detail_by_Receive.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R412_Asset_Detail_by_Transfer.cs">
+      <SubType>Component</SubType>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R412_Asset_Detail_by_Transfer.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R413_Master_Asset.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R413_Master_Asset.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R41_StockAsset-Sum-Area-Model.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R41_StockAsset-Sum-Area-Model.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R41_StockAsset-Sum-Model-Area.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R41_StockAsset-Sum-Model-Area.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R41_StockAsset.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R41_StockAsset.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R42_POReceive_ByDetail.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R42_POReceive_ByDetail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R42_POReceive_BySummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R42_POReceive_BySummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R43_InternalTransfer_ByDetail.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R43_InternalTransfer_ByDetail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R43_InternalTransfer_BySummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R43_InternalTransfer_BySummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R44_ExternalTransfer_ByDetail.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R44_ExternalTransfer_ByDetail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R44_ExternalTransfer_BySummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R44_ExternalTransfer_BySummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R45_Asset_Detail_by_BU.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R45_Asset_Detail_by_BU.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R45_Asset_Detail_by_Location.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R45_Asset_Detail_by_Location.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R45_Asset_Detail_by_Status.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R45_Asset_Detail_by_Status.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R45_Asset_Warranty.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R45_Asset_Warranty.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R45_Asset_Warranty_BK.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R45_Asset_Warranty_BK.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R46_Asset_Detail_by_BU.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R46_Asset_Detail_by_BU.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R46_Asset_Warranty.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R46_Asset_Warranty.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R47_Asset_Detail_by_Location.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R47_Asset_Detail_by_Location.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R48_Asset_Detail_by_Status.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R48_Asset_Detail_by_Status.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\R49_Asset_Detail_by_Capex.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R49_Asset_Detail_by_Capex.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\Report_CheckStock.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_CheckStock.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\Report_Internal_ExternalTransfer_ByDetail.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Internal_ExternalTransfer_ByDetail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\Report_Internal_ExternalTransfer_BySummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Internal_ExternalTransfer_BySummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Data\Present\Report\File\TransferOrderForm.cs">
+      <SubType>Component</SubType>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TransferOrderForm.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="Form_000000_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_000000_Login.Designer.cs">
+      <DependentUpon>Form_000000_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_007000_DatabaseSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_007000_DatabaseSetup.Designer.cs">
+      <DependentUpon>Form_007000_DatabaseSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_001000_About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_000000_MDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_000000_MDI.Designer.cs">
+      <DependentUpon>Form_000000_MDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005010_Barcode_Asset_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005010_Barcode_Asset_New.Designer.cs">
+      <DependentUpon>Form_005010_Barcode_Asset_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005009_Barcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005009_Barcode.Designer.cs">
+      <DependentUpon>Form_005009_Barcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005007_Barcode_Custodian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005007_Barcode_Custodian.Designer.cs">
+      <DependentUpon>Form_005007_Barcode_Custodian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005006_Barcode_Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005006_Barcode_Department.Designer.cs">
+      <DependentUpon>Form_005006_Barcode_Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005005_Barcode_Floor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005005_Barcode_Floor.Designer.cs">
+      <DependentUpon>Form_005005_Barcode_Floor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005004_Barcode_Building.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005004_Barcode_Building.Designer.cs">
+      <DependentUpon>Form_005004_Barcode_Building.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005003_Barcode_Area.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005003_Barcode_Area.Designer.cs">
+      <DependentUpon>Form_005003_Barcode_Area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005002_Barcode_Model.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005002_Barcode_Model.Designer.cs">
+      <DependentUpon>Form_005002_Barcode_Model.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005008_PrintBarcodeAsset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005008_PrintBarcodeAsset.Designer.cs">
+      <DependentUpon>Form_005008_PrintBarcodeAsset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_MenuHistory\Form_003004_Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_MenuHistory\Form_003004_Detail.Designer.cs">
+      <DependentUpon>Form_003004_Detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_MenuHistory\Form_003002_HistoryPurchaseOrderHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_MenuHistory\Form_003002_HistoryPurchaseOrderHD.Designer.cs">
+      <DependentUpon>Form_003002_HistoryPurchaseOrderHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_MenuHistory\Form_003003_HistoryAssetTransferHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_MenuHistory\Form_003003_HistoryAssetTransferHD.Designer.cs">
+      <DependentUpon>Form_003003_HistoryAssetTransferHD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form-002004_Type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form-002004_Type.Designer.cs">
+      <DependentUpon>Form-002004_Type.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002001_Asset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002001_Asset.Designer.cs">
+      <DependentUpon>Form_002001_Asset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002001_AssetPicturePreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002001_AssetPicturePreview.Designer.cs">
+      <DependentUpon>Form_002001_AssetPicturePreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002002_Model.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002002_Model.Designer.cs">
+      <DependentUpon>Form_002002_Model.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002003_Pictures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002003_Pictures.Designer.cs">
+      <DependentUpon>Form_002003_Pictures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002005_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002005_Supplier.Designer.cs">
+      <DependentUpon>Form_002005_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002006_Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002006_Company.Designer.cs">
+      <DependentUpon>Form_002006_Company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002007_Area.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002007_Area.Designer.cs">
+      <DependentUpon>Form_002007_Area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002008_Building.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002008_Building.Designer.cs">
+      <DependentUpon>Form_002008_Building.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002009-Floor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002009-Floor.Designer.cs">
+      <DependentUpon>Form_002009-Floor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002010_Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002010_Department.Designer.cs">
+      <DependentUpon>Form_002010_Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002011_Custodian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002011_Custodian.Designer.cs">
+      <DependentUpon>Form_002011_Custodian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002012_Reason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002012_Reason.Designer.cs">
+      <DependentUpon>Form_002012_Reason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002013_Status.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_002013_Status.Designer.cs">
+      <DependentUpon>Form_002013_Status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001010_AssetCheckstock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001010_Write Off.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001010_Write Off.Designer.cs">
+      <DependentUpon>Form_001010_Write Off.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001011_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001011_Search.Designer.cs">
+      <DependentUpon>Form_001011_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005001_Barcode_Asset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuBarcode\Form_005001_Barcode_Asset.Designer.cs">
+      <DependentUpon>Form_005001_Barcode_Asset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_MenuHistory\Form_003001_HistoryAsset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuMasterData\Form_MenuHistory\Form_003001_HistoryAsset.Designer.cs">
+      <DependentUpon>Form_003001_HistoryAsset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001010_CheckStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001010_CheckStock.Designer.cs">
+      <DependentUpon>Form_001010_CheckStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001006_ExternalTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001006_ExternalTransfer.Designer.cs">
+      <DependentUpon>Form_001006_ExternalTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001005_ExternalTransferOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001005_ExternalTransferOrder.Designer.cs">
+      <DependentUpon>Form_001005_ExternalTransferOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001004_InternalTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001004_InternalTransfer.Designer.cs">
+      <DependentUpon>Form_001004_InternalTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001003_InternalTransferOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001003_InternalTransferOrder.Designer.cs">
+      <DependentUpon>Form_001003_InternalTransferOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001008_ImportFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001008_ImportFile.Designer.cs">
+      <DependentUpon>Form_001008_ImportFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001007_Upload_Download_HH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001007_Upload_Download_HH.Designer.cs">
+      <DependentUpon>Form_001007_Upload_Download_HH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001002_ReceivePO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001002_ReceivePO.Designer.cs">
+      <DependentUpon>Form_001002_ReceivePO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001001_PurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001001_PurchaseOrder.Designer.cs">
+      <DependentUpon>Form_001001_PurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_000000_Main Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_000000_Main Menu.Designer.cs">
+      <DependentUpon>Form_000000_Main Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuReport\Form_003001_REPORT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuReport\Form_003001_REPORT.Designer.cs">
+      <DependentUpon>Form_003001_REPORT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001012_ReceiveNonePO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_001012_ReceiveNonePO.Designer.cs">
+      <DependentUpon>Form_001012_ReceiveNonePO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_MenuUserSetup\Form_006002_UserGroupAuthorize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_MenuUserSetup\Form_006002_UserGroupAuthorize.Designer.cs">
+      <DependentUpon>Form_006002_UserGroupAuthorize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_MenuUserSetup\Form_006001_UserAuthorize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_MenuTransactionData\Form_MenuUserSetup\Form_006001_UserAuthorize.Designer.cs">
+      <DependentUpon>Form_006001_UserAuthorize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cls\Global.cs" />
+    <Compile Include="MailServer\MailMessage.cs" />
+    <Compile Include="MailServer\MessageStore.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="bin\Debug\Custom Controls\FolderView.resx">
+      <DependentUpon>FolderView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Custom Controls\LeftSpine.resx">
+      <DependentUpon>LeftSpine.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Custom Controls\MessageArea.resx">
+      <DependentUpon>MessageArea.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Custom Controls\MessageList.resx">
+      <DependentUpon>MessageList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Custom Controls\RightSpine.resx">
+      <DependentUpon>RightSpine.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Custom Controls\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Custom Controls\UserControl1.th-TH.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\Custom Controls\UserControl1.th.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R410_Asset_Detail_by_MA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R410_Asset_Detail_by_MA.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R411_Asset_Detail_by_Receive.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R411_Asset_Detail_by_Receive.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R412_Asset_Detail_by_Transfer.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R412_Asset_Detail_by_Transfer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R413_Master_Asset.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R413_Master_Asset.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R41_StockAsset-Sum-Area-Model.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R41_StockAsset-Sum-Area-Model.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R41_StockAsset-Sum-Model-Area.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R41_StockAsset-Sum-Model-Area.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R41_StockAsset.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R41_StockAsset.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R42_POReceive_ByDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R42_POReceive_ByDetail.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R42_POReceive_BySummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R42_POReceive_BySummary.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R43_InternalTransfer_ByDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R43_InternalTransfer_ByDetail.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R43_InternalTransfer_BySummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R43_InternalTransfer_BySummary.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R44_ExternalTransfer_ByDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R44_ExternalTransfer_ByDetail.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R44_ExternalTransfer_BySummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R44_ExternalTransfer_BySummary.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R45_Asset_Detail_by_BU.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R45_Asset_Detail_by_BU.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R45_Asset_Detail_by_Location.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R45_Asset_Detail_by_Location.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R45_Asset_Detail_by_Status.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R45_Asset_Detail_by_Status.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R45_Asset_Warranty.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R45_Asset_Warranty.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R45_Asset_Warranty_BK.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R45_Asset_Warranty_BK.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R46_Asset_Detail_by_BU.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R46_Asset_Detail_by_BU.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R46_Asset_Warranty.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R46_Asset_Warranty.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R47_Asset_Detail_by_Location.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R47_Asset_Detail_by_Location.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R48_Asset_Detail_by_Status.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R48_Asset_Detail_by_Status.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\R49_Asset_Detail_by_Capex.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R49_Asset_Detail_by_Capex.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\Report_CheckStock.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_CheckStock.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\Report_Internal_ExternalTransfer_ByDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Internal_ExternalTransfer_ByDetail.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\Report_Internal_ExternalTransfer_BySummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Internal_ExternalTransfer_BySummary.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Data\Present\Report\File\TransferOrderForm.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TransferOrderForm.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_000000_Login.resx">
+      <DependentUpon>Form_000000_Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_007000_DatabaseSetup.resx">
+      <DependentUpon>Form_007000_DatabaseSetup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_001000_About.resx">
+      <DependentUpon>Form_001000_About.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_000000_MDI.resx">
+      <DependentUpon>Form_000000_MDI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005010_Barcode_Asset_New.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_005010_Barcode_Asset_New.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005009_Barcode.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_005009_Barcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005007_Barcode_Custodian.resx">
+      <DependentUpon>Form_005007_Barcode_Custodian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005006_Barcode_Department.resx">
+      <DependentUpon>Form_005006_Barcode_Department.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005005_Barcode_Floor.resx">
+      <DependentUpon>Form_005005_Barcode_Floor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005004_Barcode_Building.resx">
+      <DependentUpon>Form_005004_Barcode_Building.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005003_Barcode_Area.resx">
+      <DependentUpon>Form_005003_Barcode_Area.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005002_Barcode_Model.resx">
+      <DependentUpon>Form_005002_Barcode_Model.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005008_PrintBarcodeAsset.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_005008_PrintBarcodeAsset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_MenuHistory\Form_003004_Detail.resx">
+      <DependentUpon>Form_003004_Detail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_MenuHistory\Form_003002_HistoryPurchaseOrderHD.resx">
+      <DependentUpon>Form_003002_HistoryPurchaseOrderHD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_MenuHistory\Form_003003_HistoryAssetTransferHD.resx">
+      <DependentUpon>Form_003003_HistoryAssetTransferHD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form-002004_Type.resx">
+      <DependentUpon>Form-002004_Type.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002001_Asset.resx">
+      <DependentUpon>Form_002001_Asset.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002001_AssetPicturePreview.resx">
+      <DependentUpon>Form_002001_AssetPicturePreview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002002_Model.resx">
+      <DependentUpon>Form_002002_Model.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002003_Pictures.resx">
+      <DependentUpon>Form_002003_Pictures.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002005_Supplier.resx">
+      <DependentUpon>Form_002005_Supplier.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002006_Company.resx">
+      <DependentUpon>Form_002006_Company.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002007_Area.resx">
+      <DependentUpon>Form_002007_Area.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002008_Building.resx">
+      <DependentUpon>Form_002008_Building.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002009-Floor.resx">
+      <DependentUpon>Form_002009-Floor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002010_Department.resx">
+      <DependentUpon>Form_002010_Department.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002011_Custodian.resx">
+      <DependentUpon>Form_002011_Custodian.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002012_Reason.resx">
+      <DependentUpon>Form_002012_Reason.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_002013_Status.resx">
+      <DependentUpon>Form_002013_Status.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001010_AssetCheckstock.resx">
+      <DependentUpon>Form_001010_AssetCheckstock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001010_Write Off.resx">
+      <DependentUpon>Form_001010_Write Off.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001011_Search.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_001011_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuBarcode\Form_005001_Barcode_Asset.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_005001_Barcode_Asset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuMasterData\Form_MenuHistory\Form_003001_HistoryAsset.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_003001_HistoryAsset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001010_CheckStock.resx">
+      <DependentUpon>Form_001010_CheckStock.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001006_ExternalTransfer.resx">
+      <DependentUpon>Form_001006_ExternalTransfer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001005_ExternalTransferOrder.resx">
+      <DependentUpon>Form_001005_ExternalTransferOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001004_InternalTransfer.resx">
+      <DependentUpon>Form_001004_InternalTransfer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001003_InternalTransferOrder.resx">
+      <DependentUpon>Form_001003_InternalTransferOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001008_ImportFile.resx">
+      <DependentUpon>Form_001008_ImportFile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001007_Upload_Download_HH.resx">
+      <DependentUpon>Form_001007_Upload_Download_HH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001002_ReceivePO.resx">
+      <DependentUpon>Form_001002_ReceivePO.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001001_PurchaseOrder.resx">
+      <DependentUpon>Form_001001_PurchaseOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_000000_Main Menu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_000000_Main Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuReport\Form_003001_REPORT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_003001_REPORT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_001012_ReceiveNonePO.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_001012_ReceiveNonePO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_MenuUserSetup\Form_006002_UserGroupAuthorize.resx">
+      <DependentUpon>Form_006002_UserGroupAuthorize.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_MenuTransactionData\Form_MenuUserSetup\Form_006001_UserAuthorize.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_006001_UserAuthorize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimatUserControl\ClassComboBox.resx">
+      <DependentUpon>ClassComboBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimatUserControl\ClassTextbox.resx">
+      <DependentUpon>ClassTextbox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimatUserControl\ClasstoolStripButton.resx">
+      <DependentUpon>ClasstoolStripButton.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimatUserControl\Simat_DataSelect.resx">
+      <DependentUpon>Simat_DataSelect.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_001000_UserManual.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_001000_UserManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="simatassetDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>simatassetDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SimatUserControl\ClassComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SimatUserControl\ClassSimatDateSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SimatUserControl\ClassTextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SimatUserControl\ClasstoolStripButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SimatUserControl\Simat_DataSelect.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SimatUserControl\Simat_DataSelect.Designer.cs">
+      <DependentUpon>Simat_DataSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_001000_UserManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_001000_UserManual.Designer.cs">
+      <DependentUpon>Form_001000_UserManual.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free_icons_24.gif" />
+    <None Include="Resources\export.gif" />
+    <None Include="Resources\search.gif" />
+    <None Include="Resources\_.gif" />
+    <None Include="Resources\+.gif" />
+    <None Include="Resources\help.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Simat.Validate\SimatSoft.ValidateData.csproj">
+      <Project>{AA45DFFD-3F86-4495-8DF7-640611BF694D}</Project>
+      <Name>SimatSoft.ValidateData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SimatReport_WinForm\SimatReport_WinForm\SimatSoft.ReportManagerWinForm.csproj">
+      <Project>{38F24B8D-15C6-412D-BAB3-DC7F22F1EA1F}</Project>
+      <Name>SimatSoft.ReportManagerWinForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Simat_Control\SimatSoft.ControlBasic.csproj">
+      <Project>{E75F7385-8729-4A7E-A2C6-2EF496155CFD}</Project>
+      <Name>SimatSoft.ControlBasic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIMAT_DB\Simat_DB.csproj">
+      <Project>{74F62E89-ECED-4763-9C5E-F2C33A841331}</Project>
+      <Name>Simat_DB</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Address.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archive.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contacts24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drafts.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Error.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Forward.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InternetFax.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JournalEntry.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Move.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewAppointment.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewContact.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewDistributionList.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewMeetingRequest.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewTask.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes32.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Outlook.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paste.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Post.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PrintPreview.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Read.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reply.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReplyAll.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rule.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Send.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shortcut.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shortcut24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tasks24.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unread.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1Transaction.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Data\Server\DB-ServerPicture.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Data\Server\DB-Server.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\ProfileMSGBox.xml" />
+    <Content Include="bin\Debug\XML\EN\Form_005004_BarcodeBuildingEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_005005_BarcodeFloorEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_005006_BarcodeDepartmentEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_005007_BarcodeCustodianEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_005003_BarcodeAreaEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_005002_BarcodeModelEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_005001_BarcodeAssetEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_006002_UserGroupAutolizeEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_006001_UserAutolizeEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001009_WriteOffEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001006_ExternalTransferEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001005_ExternalTransferOrderEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001004_InternalTransferEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001003_InternalTransferOrderEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001010_CheckStockEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_007000_DatabaseSetupEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001008_ImportFileEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001007_Upload_Download_HHEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001002_ReceivePurchaseOrderEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_001001_PurchaseOrderEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002013_StatusEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_000000_MdiEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002004_TypeEN.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002001_AssetEN.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_Barcode.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_UserGroupAuthorize.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_UserAuthorize.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_ImportFile.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_Upload_Download_HH.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_ExternalTransfer.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_ExternalTransferOrder.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_InternalTransfer.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_InternalTransferOrder.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_ReceivePO.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_PurchaseOrder.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_Login.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\F0rm_000000_Master.XML" />
+    <Content Include="bin\Debug\XML\EN\MSG\MESSAGEBOX.XML" />
+    <Content Include="bin\Debug\XML\ProfileControl.xml" />
+    <Content Include="bin\Debug\XML\TH\Form_005004_BarcodeBuildingTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_005005_BarcodeFloorTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_005006_BarcodeDepartmentTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_005007_BarcodeCustodianTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_005003_BarcodeAreaTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_005002_BarcodeModelTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001010_CheckStockTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001006_ExternalTransferTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001005_ExternalTransferOrderTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001004_InternalTransferTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001003_InternalTransferOrderTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001009_WriteOffTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_005001_BarcodeAssetTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_006001_UserAutolizeTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_006002_UserGroupAutolizeTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_007000_DatabaseSetupTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001008_ImportFileTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001007_Upload_Download_HHTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001002_ReceivePurchaseOrderTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_001001_PurchaseOrderTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002013_StatusTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_000000_MdiTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002004_TypeTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002001_AssetTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002006_FacilityEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002006_FacilityTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002011_CustodianEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002011_CustodianTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002005_SupplierEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002005_SupplierTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002012_ReasonEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002012_ReasonTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002003_PicturesEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002003_PicturesTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002002_ModelEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002002_ModelTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002010_DepartmentEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002010_DepartmentTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002007_AreaEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002007_AreaTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002009_FloorEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002009_FloorTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_002008_BuildingEN.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_002008_BuildingTH.XML" />
+    <Content Include="bin\Debug\XML\TH\Form_000000_LoginTH.XML" />
+    <Content Include="bin\Debug\XML\EN\Form_000000_LoginEN.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_Barcode.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_UserGroupAuthorize.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_UserAuthorize.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_ExternalTransfer.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_ExternalTransferOrder.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_ImportFile.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_InternalTransfer.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_InternalTransferOrder.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_ReceivePO.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_PurchaseOrder.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_Master.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_Login.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\F0rm_000000_Upload_Download_HH.XML" />
+    <Content Include="bin\Debug\XML\TH\MSG\MESSAGEBOX.XML" />
+    <Content Include="Data\Present\AssetHome-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\AssetHome-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\AssetHome-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Building-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Building-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Building-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Area-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Area-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Area-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeAssetAdd-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeAssetAdd-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeAssetAdd-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeAssetSelect-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeAssetSelect-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeAssetSelect-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeModel-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeModel-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeModel-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeArea-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeArea-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeArea-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeBuilding-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeBuilding-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeBuilding-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeFloor-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeFloor-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeFloor-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeDepartment-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeDepartment-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeDepartment-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeCustodian-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeCustodian-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\BarcodeCustodian-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\ModelHome-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\ModelHome-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\ModelHome-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R413-MasterAsset-S.xml" />
+    <Content Include="Data\Present\Report\R413-MasterAsset-Q.xml" />
+    <Content Include="Data\Present\Report\R410-StockAssetByMA-Q.xml" />
+    <Content Include="Data\Present\Report\R410-StockAssetByMA-S.xml" />
+    <Content Include="Data\Present\Report\R411-StockAssetByReceive-Q.xml" />
+    <Content Include="Data\Present\Report\R411-StockAssetByReceive-S.xml" />
+    <Content Include="Data\Present\Report\R412-StockAssetByTransfer-Q.xml" />
+    <Content Include="Data\Present\Report\R412-StockAssetByTransfer-S.xml" />
+    <Content Include="Data\Present\Report\R45-Warranty-Q.xml" />
+    <Content Include="Data\Present\Report\R45-Warranty-S.xml" />
+    <Content Include="Data\Present\Report\R46-StockAssetByBU-Q.xml" />
+    <Content Include="Data\Present\Report\R46-StockAssetByBU-S.xml" />
+    <Content Include="Data\Present\Report\R47-StockAssetByLoc-Q.xml" />
+    <Content Include="Data\Present\Report\R47-StockAssetByLoc-S.xml" />
+    <Content Include="Data\Present\Report\R48-StockAssetByStatus-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R48-StockAssetByStatus-S.xml" />
+    <Content Include="Data\Present\Report\R49-StockAssetByCapex-Q.xml" />
+    <Content Include="Data\Present\Report\R49-StockAssetByCapex-S.xml" />
+    <Content Include="Data\Present\Report\Report-CheckStock-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\Report-CheckStock-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\Report-Internal_ExternalTransfer-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\Report-Internal_ExternalTransfer-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R44-ExternalTransfer-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R44-ExternalTransfer-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R43-InternalTransfer-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R43-InternalTransfer-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R42-POReceive-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R42-POReceive-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R41-StockAsset-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Report\R41-StockAsset-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Status-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Status-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Status-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Reason-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Reason-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Reason-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Model-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Model-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Model-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\whUser-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\whUser-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\whUser-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\whGroup-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\whGroup-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\whGroup-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Facility-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Facility-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Facility-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Department-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Department-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Department-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Supplier-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Supplier-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Supplier-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Custodian-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Custodian-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Custodian-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Floor-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Floor-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Floor-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\InternalTransfer-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\InternalTransfer-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\InternalTransfer-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Menu.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Type-H.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Type-Q.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Present\Type-S.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FixAsset.ico" />
+    <Content Include="Resources\2File1111.gif" />
+    <Content Include="Resources\3History.gif" />
+    <Content Include="Resources\4Report.gif" />
+    <Content Include="Resources\5Barcode.gif" />
+    <Content Include="Resources\6System.gif" />
+    <Content Include="WriteFile.txt" />
+    <None Include="app.config" />
+    <None Include="Data\Present\Report\File\sqlnet.log" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\history2.png" />
+    <None Include="Resources\barcode.png" />
+    <None Include="Resources\System.png" />
+    <None Include="Resources\document_into.png" />
+    <None Include="Resources\data1.png" />
+    <None Include="Resources\data_gear.png" />
+    <None Include="Resources\data_gear.ico" />
+    <None Include="simatassetDataSet.xsc">
+      <DependentUpon>simatassetDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="simatassetDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>simatassetDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="simatassetDataSet.xss">
+      <DependentUpon>simatassetDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

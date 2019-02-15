@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <ReportFile>File\\Report_Internal_ExternalTransfer_ByDetail.rpt</ReportFile>
+    <Reportname>Detail</Reportname >
+    <Query><!--{Serial.SerialFlag} &lt;&gt; "P"  and--> </Query>
+    <Orderby></Orderby>
+    <Datasource>ReportRM</Datasource>
+    <Reporttype>ODBC</Reporttype>
+  </Control>
+  <Control>
+    <ReportFile>File\\Report_Internal_ExternalTransfer_BySummary.rpt</ReportFile>
+    <Reportname>Summary</Reportname >
+    <Query><!--{Serial.SerialFlag} &lt;&gt; "P"  and--> </Query>
+    <Orderby></Orderby>
+    <Datasource>ReportRM</Datasource>
+    <Reporttype>ODBC</Reporttype>
+  </Control>
+  <!--<Control>
+    <ReportFile>File\\Report1_Production Report_SumByDate.rpt</ReportFile>
+    <Reportname>SumByDate</Reportname >
+    <Query>{Serial.SerialFlag} &lt;&gt; "P"  and </Query>
+    <Orderby></Orderby>
+    <Datasource>ReportRM</Datasource>
+    <Reporttype>ODBC</Reporttype>
+  </Control>
+  <Control>
+    <ReportFile>File\\Report1_Production Report_SumByDate.rpt</ReportFile>
+    <Reportname>SumByLocation</Reportname >
+    <Query>{Serial.SerialFlag} &lt;&gt; "P"  and </Query>
+    <Orderby></Orderby>
+    <Datasource>ReportRM</Datasource>
+    <Reporttype>ODBC</Reporttype>
+  </Control>-->
+
+</Controls:Controls>

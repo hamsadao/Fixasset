@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_001003_InternalTransferOrder</IDCTRL>
+    <IDDESC>ID:001003(Internal Transfer Order)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_TransferNo</IDCTRL>
+    <IDDESC>Transfer No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Date</IDCTRL>
+	  <IDDESC>Date:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Type</IDCTRL>
+    <IDDESC>Type:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FormDepartment</IDCTRL>
+    <IDDESC>From Department:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_ToDepartment</IDCTRL>
+    <IDDESC>To Department:</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Remark</IDCTRL>
+		<IDDESC>Remark:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

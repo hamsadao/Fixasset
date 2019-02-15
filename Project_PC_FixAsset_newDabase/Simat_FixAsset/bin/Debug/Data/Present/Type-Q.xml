@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>SELECT  typeID, typeName, Remark FROM Type	</Query>
+    <Orderby>order by typeID </Orderby>
+  </Control>
+</Controls:Controls>

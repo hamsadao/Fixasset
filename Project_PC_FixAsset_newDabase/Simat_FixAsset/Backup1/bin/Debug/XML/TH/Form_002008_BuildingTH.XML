@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002008_Building</IDCTRL>
+		<IDDESC>ID:002008(ห้อง)</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_BuildingNo</IDCTRL>
+		<IDDESC>รหัสห้อง:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_BuildingName</IDCTRL>
+		<IDDESC>ชื่อห้อง:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_FacilityNo</IDCTRL>
+		<IDDESC>รหัสโรงงาน:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_DepartmentNo</IDCTRL>
+		<IDDESC>รหัสแผนก:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_DepartmentName</IDCTRL>
+		<IDDESC>ชื่อแผนก:</IDDESC>
+	</Menu>
+</Controls:Controls>

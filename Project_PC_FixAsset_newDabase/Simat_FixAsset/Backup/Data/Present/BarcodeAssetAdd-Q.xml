@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>
+		SELECT Asset.AssetID, Asset.AssetName, Asset.modelID, Model.modelName
+		FROM   Asset LEFT OUTER JOIN
+		Model ON Asset.modelID = Model.modelID
+	</Query>
+    <Orderby>order by AssetID </Orderby>
+  </Control>
+</Controls:Controls>

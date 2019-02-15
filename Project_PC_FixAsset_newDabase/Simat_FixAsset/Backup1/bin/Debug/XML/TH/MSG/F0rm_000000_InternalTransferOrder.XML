@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>000001</IDCTRL>
+		<IDDESC>รับข้อมูล : "{0}" เรียบร้อย</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000002</IDCTRL>
+		<IDDESC>ไม่สามารถรับข้อมูล : "{0}"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000003</IDCTRL>
+		<IDDESC>แก้ไขข้อมูล : "{0}" เรียบร้อย</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000004</IDCTRL>
+		<IDDESC>ไม่สามารถแก้ไขข้อมูล : "{0}"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000005</IDCTRL>
+		<IDDESC>คุณต้องการลบข้อมูล : "{0}" ?</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000006</IDCTRL>
+		<IDDESC>ลบข้อมูล : "{0}" เรียบร้อย</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000007</IDCTRL>
+		<IDDESC>ไม่สามารถลบข้อมูล : "{0}"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000008</IDCTRL>
+		<IDDESC>กรุณากรอกข้อมูลรุ่นลงในดาต้ากริด</IDDESC>
+	</Menu>
+</Controls:Controls>

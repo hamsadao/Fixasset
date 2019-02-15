@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Simat.Validate.dll
+bin\Debug\Simat.Validate.pdb
+bin\Debug\Simat.Log.dll
+bin\Debug\Simat.Log.pdb
+obj\Debug\Simat.Validate.dll
+obj\Debug\Simat.Validate.pdb
+bin\Debug\Data\Validate\ScreenID0001.xml
+bin\Debug\SimatSoft.CustomControl.dll
+bin\Debug\SimatSoft.Secure.License.dll

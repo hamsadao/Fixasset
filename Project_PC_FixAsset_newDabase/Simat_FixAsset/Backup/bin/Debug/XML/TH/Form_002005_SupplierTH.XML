@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+<Menu>
+	<IDCTRL>Form_002005_Supplier</IDCTRL>
+	<IDDESC>ID:002005(ซัพพลายเออร์)</IDDESC>
+</Menu>
+<Menu>
+	<IDCTRL>LBL_SupplierNo</IDCTRL>
+	<IDDESC>รหัสซัพพลายเออร์:</IDDESC>
+</Menu>
+<Menu>
+	<IDCTRL>LBL_SupplierFirstName</IDCTRL>
+	<IDDESC>ชื่อ:</IDDESC>
+</Menu>
+	<Menu>
+		<IDCTRL>LBL_SupplierLastName</IDCTRL>
+		<IDDESC>Tagged ID:</IDDESC>
+	</Menu>
+<Menu>
+	<IDCTRL>LBL_Address1</IDCTRL>
+	<IDDESC>ที่อยู่ 1:</IDDESC>
+</Menu>
+<Menu>
+	<IDCTRL>LBL_Address2</IDCTRL>
+	<IDDESC>ที่อยู่ 2:</IDDESC>
+</Menu>
+<Menu>
+	<IDCTRL>LBL_City</IDCTRL>
+	<IDDESC>จังหวัด:</IDDESC>
+</Menu>
+<Menu>
+	<IDCTRL>LBL_State</IDCTRL>
+	<IDDESC>ประเทศ:</IDDESC>
+</Menu>
+	<Menu>
+		<IDCTRL>LBL_Zip</IDCTRL>
+		<IDDESC>รหัสไปรษณีย์:</IDDESC>
+	</Menu>
+<Menu>
+	<IDCTRL>LBL_Phone</IDCTRL>
+	<IDDESC>โทรศัพท์:</IDDESC>
+</Menu>
+<Menu>
+	<IDCTRL>LBL_Fax</IDCTRL>
+	<IDDESC>โทรสาร:</IDDESC>
+</Menu>
+<Menu>
+	<IDCTRL>LBL_Email</IDCTRL>
+	<IDDESC>อีเมลล์:</IDDESC>
+</Menu>
+<Menu>
+	<IDCTRL>LBL_Contact</IDCTRL>
+	<IDDESC>ผู้ติดต่อ:</IDDESC>
+</Menu>
+	<Menu>
+		<IDCTRL>LBL_SupplierTypes</IDCTRL>
+		<IDDESC>ประเภท:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Remark</IDCTRL>
+		<IDDESC>หมายเหตุ:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_FacilityNo</IDCTRL>
+		<IDDESC>รหัสโรงงาน:</IDDESC>
+	</Menu>
+	
+</Controls:Controls>

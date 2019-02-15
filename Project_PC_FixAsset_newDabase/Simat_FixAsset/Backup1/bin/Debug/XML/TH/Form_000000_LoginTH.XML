@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_001000_Login</IDCTRL>
+		<IDDESC>Form_001000(เข้าสู่ระบบ)</IDDESC>
+	</Menu>
+	<Menu>
+    <IDCTRL>LBL_UserID</IDCTRL>
+	<IDDESC>รหัสผู้ใช้งาน:</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>LBL_Password</IDCTRL>
+	<IDDESC>รหัสผ่าน:</IDDESC>
+  </Menu>
+	<Menu>
+		<IDCTRL>LBL_Language</IDCTRL>
+		<IDDESC>     ภาษา:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Company</IDCTRL>
+		<IDDESC>บริษัท:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>Button_Login</IDCTRL>
+		<IDDESC>         เข้าสู่ระบบ</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>Button_Exit</IDCTRL>
+		<IDDESC>         จบโปรแกรม</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>Button_Config</IDCTRL>
+		<IDDESC>ระบบ</IDDESC>
+	</Menu>
+</Controls:Controls>

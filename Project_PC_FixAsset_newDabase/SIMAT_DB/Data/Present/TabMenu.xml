@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<name></name>
+		<tbMenuId>1</tbMenuId>
+		<tabMenu>11</tabMenu>
+		<Profilename>Import Data</Profilename>
+	</Menu>
+	<Menu>
+		<name></name>
+		<tbMenuId>2</tbMenuId>
+		<tabMenu>1</tabMenu>
+		<Profilename>Master Data</Profilename>
+	</Menu>
+	<Menu>
+		<name></name>
+		<tbMenuId>3</tbMenuId>
+		<tabMenu>14</tabMenu>
+		<Profilename>History Data</Profilename>
+	</Menu>
+	<Menu>
+		<name></name>
+		<tbMenuId>4</tbMenuId>
+		<tabMenu>15</tabMenu>
+		<Profilename>Report</Profilename>
+	</Menu>
+	<Menu>
+		<name></name>
+		<tbMenuId>5</tbMenuId>
+		<tabMenu>16</tabMenu>
+		<Profilename>Barcode</Profilename>
+	</Menu>
+	<Menu>
+		<name></name>
+		<tbMenuId>6</tbMenuId>
+		<tabMenu>17</tabMenu>
+		<Profilename>User System</Profilename>
+	</Menu>
+
+	<Menu>
+		<name></name>
+		<tbMenuId>7</tbMenuId>
+		<tabMenu>17</tabMenu>
+		<Profilename>Database Setup</Profilename>
+	</Menu>
+	
+</Controls:Controls>

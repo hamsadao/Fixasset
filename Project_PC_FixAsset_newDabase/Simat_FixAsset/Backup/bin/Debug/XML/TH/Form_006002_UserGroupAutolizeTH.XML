@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_006002_UserGroupAutolize</IDCTRL>
+    <IDDESC>ID:006002(UserGroupAutolize)</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_GroupID</IDCTRL>
+		<IDDESC>รหัสกลุ่ม:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_GroupName</IDCTRL>
+		<IDDESC>ชื่อกลุ่ม:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Facility</IDCTRL>
+		<IDDESC>บริษัท:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

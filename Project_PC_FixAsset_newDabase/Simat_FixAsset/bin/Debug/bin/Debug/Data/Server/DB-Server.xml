@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Server:Controls xmlns:Server="http://www.simat.co.th">
+    <Server>
+        <Name>DESKTOP-8EGS99A</Name>
+        <Databasename>FixedAsset_CEVA</Databasename>
+        <USER>Ze+neounS+iTfe+eW/YyqQ==</USER>
+        <PASSWORD>//MfgezRHac/ovIFxKbKTg==</PASSWORD>
+        <Type>MsSql</Type>
+        <Language>TH</Language>
+    </Server>
+</Server:Controls>

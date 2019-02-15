@@ -1,0 +1,30 @@
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\Simatsoft.Log.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\Simatsoft.Log.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\SimatSoft.CustomControl.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\SimatSoft.Secure.License.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\ResolveAssemblyReference.cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.FormLogview.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.csproj.GenerateResource.Cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\Simatsoft.Log.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\SimatSoft.CustomControl.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\SimatSoft.Secure.License.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.FormLogview.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.csproj.GenerateResource.Cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\SimatSoft.CustomControl.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\bin\Debug\SimatSoft.Secure.License.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.csprojAssemblyReference.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.FormLogview.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.csproj.GenerateResource.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\SimatSoft.Log.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Log\obj\Debug\Simatsoft.Log.pdb

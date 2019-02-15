@@ -1,0 +1,69 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_001007_Upload_Download_HH</IDCTRL>
+    <IDDESC>ID:001007(Upload_Download_HH)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>groupBox_Download</IDCTRL>
+    <IDDESC>Download_From_Handheld:</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_DownloadAsset</IDCTRL>
+		<IDDESC>Asset</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_DownloadCheckStock</IDCTRL>
+		<IDDESC>CheckStock</IDDESC>
+	</Controls>
+ 
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>groupBox_Upload</IDCTRL>
+		<IDDESC>Upload_To_Handheld:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadAsset</IDCTRL>
+		<IDDESC>Asset</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Detail</IDCTRL>
+		<IDDESC>Detail:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadCheckStock</IDCTRL>
+		<IDDESC>Check Stock</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadArea</IDCTRL>
+		<IDDESC>Area</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadBuilding</IDCTRL>
+		<IDDESC>Building</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadPurchaseOrder</IDCTRL>
+		<IDDESC>PurchaseOrder</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadSuplier</IDCTRL>
+		<IDDESC>Supplier</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadCompany</IDCTRL>
+		<IDDESC>Company</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadFloor</IDCTRL>
+		<IDDESC>Floor</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>lbl_StatusSync</IDCTRL>
+		<IDDESC>StatusSync</IDDESC>
+	</Controls>	
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_UploadSelected</IDCTRL>
+		<IDDESC>Table Selected:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

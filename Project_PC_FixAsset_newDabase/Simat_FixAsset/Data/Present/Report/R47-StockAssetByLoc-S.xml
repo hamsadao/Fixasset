@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <name>Facility</name>
+    <description>Facility</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Facility.Faccode}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select Faccode from facility</sqlshowdata>
+  </Control>
+  <Control>
+		<name>Building</name>
+		<description>Building No</description>
+		<defaultvalue></defaultvalue>
+		<entity>{Building.buildID}</entity>
+		<controltype>combobox</controltype>
+		<width>100 </width>
+		<datatype>string </datatype>
+		<format></format>
+		<operation>like</operation>
+		<prefix></prefix>
+		<sufix>*</sufix>
+		<nextoperation>and</nextoperation>
+		<sqlshowdata>SELECT buildid FROM  building</sqlshowdata>
+	</Control>
+  <Control>
+    <name>Floor</name>
+    <description>Floor No</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Floor.FloorID}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>SELECT Floorid FROM  Floor</sqlshowdata>
+  </Control>
+  <Control>
+    <name>Area</name>
+    <description>Area No</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Area.AreaID}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>SELECT Areaid FROM  Area</sqlshowdata>
+  </Control>
+  <Control>
+    <name>Class</name>
+    <description>Class</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Type.TypeID}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select TypeID from Type Where TypeGroup = 'CLASS' </sqlshowdata>
+  </Control>
+  <Control>
+    <name>FromDate</name>
+    <description>PO From Date</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Asset.Customfiled4}</entity>
+    <controltype>simatdatetime</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>>=</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+  </Control>
+  <Control>
+    <name>ToDate</name>
+    <description>PO To Date</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Asset.Customfiled4}</entity>
+    <controltype>simatdatetime</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>&lt;=</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+  </Control>
+
+</Controls:Controls>

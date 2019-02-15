@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Server:Controls xmlns:Server="http://www.simat.co.th">
+    <Server>
+        <Name>PIYANUT-PC\PIYANUT_SERVER</Name>
+        <Databasename>FixedAssetPic_CEVA</Databasename>
+        <USER>TT7u/S1+OWLRIFj/4xFO8g==</USER>
+        <PASSWORD>y5yKksWoDJMxc0kOFldkEQ==</PASSWORD>
+        <Type>MsSql</Type>
+    </Server>
+</Server:Controls>

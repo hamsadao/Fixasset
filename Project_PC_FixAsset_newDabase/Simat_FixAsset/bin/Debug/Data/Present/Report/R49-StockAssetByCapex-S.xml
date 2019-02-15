@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <name>Facility</name>
+    <description>Facility</description>
+    <defaultvalue></defaultvalue>
+    <entity>{facility.faccode}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select faccode from facility</sqlshowdata>
+  </Control>
+  <Control>
+    <name>Capex</name>
+    <description>Capex</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Asset.Customfiled2}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix></sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select DISTINCT Customfiled2 from Asset </sqlshowdata>
+  </Control>
+
+  <Control>
+    <name>FromDate</name>
+    <description>PO From Date</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Asset.Customfiled4}</entity>
+    <controltype>simatdatetime</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>>=</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+  </Control>
+  <Control>
+    <name>ToDate</name>
+    <description>PO To Date</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Asset.Customfiled4}</entity>
+    <controltype>simatdatetime</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>&lt;=</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+  </Control>
+
+</Controls:Controls>

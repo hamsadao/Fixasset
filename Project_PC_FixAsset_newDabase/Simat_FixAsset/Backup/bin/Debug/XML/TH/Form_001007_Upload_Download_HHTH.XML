@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>Form_001007_Upload_Download_HH</IDCTRL>
+		<IDDESC>ID:001007(Upload_Download_HH)</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>groupBox_Download</IDCTRL>
+		<IDDESC>ดาวน์โหลด:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_DownloadAsset</IDCTRL>
+		<IDDESC>ข้อมูลอุปกรณ์</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_DownloadCheckStock</IDCTRL>
+		<IDDESC>เช็คสินค้า</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>lbl_StatusSync</IDCTRL>
+		<IDDESC>สถานะการเชื่อมต่อ</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Asset</IDCTRL>
+		<IDDESC>ข้อมูลอุปกรณ์:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_PurchaseOrder</IDCTRL>
+		<IDDESC>เอกสารสั่งซื้อ:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Supplier</IDCTRL>
+		<IDDESC>ซัพพลายเออร์:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_CheckStock</IDCTRL>
+		<IDDESC>เช็คสินค้า:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>groupBox_Upload</IDCTRL>
+		<IDDESC>อัพโหลด:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadAsset</IDCTRL>
+		<IDDESC>ข้อมูลอุปกรณ์</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadCheckStock</IDCTRL>
+		<IDDESC>เช็คสินค้า</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadArea</IDCTRL>
+		<IDDESC>พื้นที่</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadBuilding</IDCTRL>
+		<IDDESC>ห้อง</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadPurchaseOrder</IDCTRL>
+		<IDDESC>เอกสารรับสั่งซื้อ</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadSuplier</IDCTRL>
+		<IDDESC>ซัพพลายเออร์</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadFacility</IDCTRL>
+		<IDDESC>บริษัท</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_UploadFloor</IDCTRL>
+		<IDDESC>ชั้น</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_UploadSelected</IDCTRL>
+		<IDDESC>เลือกเทเบิ้ล :</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

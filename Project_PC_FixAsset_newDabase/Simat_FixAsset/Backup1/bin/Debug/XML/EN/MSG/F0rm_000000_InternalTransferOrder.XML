@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>000001</IDCTRL>
+		<IDDESC>Receive data : "{0}" Complete</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000002</IDCTRL>
+		<IDDESC>Can not receive data : "{0}"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000003</IDCTRL>
+		<IDDESC>Edit data : "{0}" Complete</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000004</IDCTRL>
+		<IDDESC>Can not edit data : "{0}"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000005</IDCTRL>
+		<IDDESC>Do you want to delete : "{0}"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000006</IDCTRL>
+		<IDDESC>Delete data: "{0}" Complete</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000007</IDCTRL>
+		<IDDESC>Can not delete data: "{0}"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000008</IDCTRL>
+		<IDDESC>Please input Model in datagrid</IDDESC>
+	</Menu>
+</Controls:Controls>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_007000_DatabaseSetup</IDCTRL>
+		<IDDESC>ID:007000(DatabaseSetup)</IDDESC>
+	</Menu>
+	<Menu>
+    <IDCTRL>tabPage_DatabaseServer</IDCTRL>
+	<IDDESC>Database Server</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>tabPage_PictureServer</IDCTRL>
+	<IDDESC>Picture Server</IDDESC>
+  </Menu>
+	<Menu>
+		<IDCTRL>tabPage_Language</IDCTRL>
+		<IDDESC>Language</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_ServerName</IDCTRL>
+		<IDDESC>Server name:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_DatabaseName</IDCTRL>
+		<IDDESC>Database name:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_UserName</IDCTRL>
+		<IDDESC>User name:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Password</IDCTRL>
+		<IDDESC>Password:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_DatabaseType</IDCTRL>
+		<IDDESC>Database type:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_PictureServerName</IDCTRL>
+		<IDDESC>Server name:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_PictureDatabaseName</IDCTRL>
+		<IDDESC>Database name:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_PictureUserName</IDCTRL>
+		<IDDESC>User name:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_PicturePassword</IDCTRL>
+		<IDDESC>Password:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_PictureDatabaseType</IDCTRL>
+		<IDDESC>Database type:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Language</IDCTRL>
+		<IDDESC>Language:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Company</IDCTRL>
+		<IDDESC>Company:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>Button_SaveConfig</IDCTRL>
+		<IDDESC>   OK</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>button_Cancel</IDCTRL>
+		<IDDESC>   Cancel</IDDESC>
+	</Menu>
+</Controls:Controls>

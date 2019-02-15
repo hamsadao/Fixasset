@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002003_Pictures</IDCTRL>
+		<IDDESC>ID:002003(Pictures)</IDDESC>
+	</Menu> 
+	<Menu>
+    <IDCTRL>LBL_AssetNo</IDCTRL>
+	<IDDESC>Asset No:</IDDESC>
+  </Menu>
+	<Menu>
+		<IDCTRL>LBL_ModelNo</IDCTRL>
+		<IDDESC>Model No:</IDDESC>
+	</Menu>
+    <Menu>
+    <IDCTRL>LBL_Picture</IDCTRL>
+	<IDDESC>Picture:</IDDESC>
+  </Menu>
+</Controls:Controls>

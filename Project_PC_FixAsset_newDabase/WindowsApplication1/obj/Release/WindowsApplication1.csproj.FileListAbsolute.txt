@@ -1,0 +1,17 @@
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\WindowsApplication1\bin\Release\WindowsApplication1.exe
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.Properties.Resources.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.csproj.GenerateResource.Cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.exe
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.Properties.Resources.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.csproj.GenerateResource.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\WindowsApplication1\obj\Release\WindowsApplication1.csprojAssemblyReference.cache

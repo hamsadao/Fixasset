@@ -1,0 +1,14 @@
+bin\Debug\Simat_Log.dll
+bin\Debug\Simat_Log.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Simat_Log.FormLogview.resources
+obj\Debug\Simat_Log.csproj.GenerateResource.Cache
+obj\Debug\Simat_Log.dll
+obj\Debug\Simat_Log.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Simat_Log.csproj.GenerateResource.Cache
+bin\Release\Simat.Log.dll
+bin\Release\Simat.Log.pdb
+obj\Release\Simat.Log.FormLogview.resources
+obj\Release\Simat.Log.dll
+obj\Release\Simat.Log.pdb

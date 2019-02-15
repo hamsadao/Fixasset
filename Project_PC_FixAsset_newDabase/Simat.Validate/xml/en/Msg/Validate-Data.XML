@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Menu>
+    <IDCTRL>1000</IDCTRL>
+	<IDDESC>ทดสอบ {1} Message1?.............{0}</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>2000</IDCTRL>
+	<IDDESC>ทดสอบ {1} Message2?.............{0}</IDDESC>
+  </Menu>
+  <Menu>
+    <IDCTRL>001</IDCTRL>
+    <IDDESC>ทดสอบ {0} Message2?</IDDESC>
+  </Menu>
+</Controls:Controls>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>000001</IDCTRL>
+		<IDDESC>รหัสผู้ใช้ : "{0}" เข้าใช้งานได้</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000002</IDCTRL>
+		<IDDESC>รหัสผู้ใช้ : "{0}" ไม่ถูกต้อง</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000003</IDCTRL>
+		<IDDESC>รหัสผ่านไม่ถูกต้อง</IDDESC>
+	</Menu>
+</Controls:Controls>

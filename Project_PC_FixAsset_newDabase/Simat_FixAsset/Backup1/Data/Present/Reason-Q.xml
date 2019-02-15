@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>SELECT ReasonCode,ReasonName FROM Reason
+	</Query>
+    <Orderby>order by ReasonCode </Orderby>
+  </Control>
+</Controls:Controls>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002002_Model</IDCTRL>
+		<IDDESC>ID:002002(รุ่น)</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Brand</IDCTRL>
+		<IDDESC>ยี่ห้อ:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_ModelNo</IDCTRL>
+		<IDDESC>รหัสรุ่น:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_ModelName</IDCTRL>
+		<IDDESC>ชื่อรุ่น:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Value</IDCTRL>
+		<IDDESC>มูลค่า:</IDDESC>
+	</Menu>
+</Controls:Controls>

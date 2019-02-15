@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_001008_ImportFile</IDCTRL>
+    <IDDESC>ID:001008(Import File)</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_FilePath</IDCTRL>
+		<IDDESC>FilePath:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Company</IDCTRL>
+		<IDDESC>Company:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FileType</IDCTRL>
+    <IDDESC>File Type:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>checkBox_Asset</IDCTRL>
+	  <IDDESC>Asset</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>checkBox_PurchaseOrder</IDCTRL>
+    <IDDESC>Purchase Order</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>checkBox_Supplier</IDCTRL>
+    <IDDESC>Supplier</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Building</IDCTRL>
+		<IDDESC>Building</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Area</IDCTRL>
+		<IDDESC>Area</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Floor</IDCTRL>
+		<IDDESC>Floor</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>sS_ButtonGlass_Browse</IDCTRL>
+		<IDDESC>Browse</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

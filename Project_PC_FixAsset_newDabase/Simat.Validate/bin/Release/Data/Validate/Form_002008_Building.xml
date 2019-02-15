@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Control>
+		<controlname>panel_Building.sS_MaskedTextBox_BuildingNo</controlname>
+		<description>Building No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>1</min>
+		<max>15</max>
+	</Control>
+	<Control>
+		<controlname>panel_Building.sS_MaskedTextBox_BuildingName</controlname>
+		<description>Building Name</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>30</max>
+	</Control>
+	<Control>
+		<controlname>panel_Building.sS_MaskedTextBox_FacilityNo</controlname>
+		<description>Facility No</description>
+		<controltype>textbox</controltype>
+		<datatype>CHAR</datatype>
+		<min>0</min>
+		<max>10</max>
+	</Control>
+</Controls:Controls>

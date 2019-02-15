@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <controlname>tabPage_DatabaseServer.sS_MaskedTextBox_ServerName</controlname>
+    <description>Server Name</description>
+    <controltype>textbox</controltype>
+    <datatype>CHAR</datatype>
+    <min>1</min>
+    <max>255</max>
+  </Control>
+  <Control>
+    <controlname>tabPage_DatabaseServer.sS_MaskedTextBox_DatabaseName</controlname>
+    <description>Database Name</description>
+    <controltype>textbox</controltype>
+    <datatype>CHAR</datatype>
+    <min>1</min>
+    <max>255</max>
+  </Control>
+  <Control>
+    <controlname>tabPage_DatabaseServer.sS_MaskedTextBox_UserName</controlname>
+    <description>UserID Login to Database</description>
+    <controltype>textbox</controltype>
+    <datatype>CHAR</datatype>
+    <min>1</min>
+    <max>255</max>
+  </Control>
+  <Control>
+    <controlname>tabPage_DatabaseServer.sS_MaskedTextBox_Password</controlname>
+    <description>Password Login to Database</description>
+    <controltype>textbox</controltype>
+    <datatype>CHAR</datatype>
+    <min>0</min>
+    <max>255</max>
+  </Control>
+</Controls:Controls>

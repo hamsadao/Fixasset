@@ -1,0 +1,127 @@
+ One or more errors encountered while loading the designer. The errors are listed below. Some errors can be fixed by rebuilding your project, while others may require code changes. 
+
+Invalid character in a Base-64 string. 
+Hide     
+
+at System.Convert.FromBase64String(String s)
+at XCrypt.XCryptEngine.SymmetricAlgorithmEngine.Decrypting(String Source, String Key)
+at XCrypt.XCryptEngine.Decrypt(String src)
+at SimatSoft.Cryptography.Class_SimatLicense.Decrypt(String Data)
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.ReadFileLicense(String str_SwID)
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.MyMessageBox_Load(Object sender, EventArgs e)
+at System.Windows.Forms.Form.OnLoad(EventArgs e)
+at System.Windows.Forms.Form.OnCreateControl()
+at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+at System.Windows.Forms.Control.CreateControl()
+at System.Windows.Forms.Control.WmShowWindow(Message& m)
+at System.Windows.Forms.Control.WndProc(Message& m)
+at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+at System.Windows.Forms.Form.WmShowWindow(Message& m)
+at System.Windows.Forms.Form.WndProc(Message& m)
+at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+at System.Windows.Forms.Control.set_Visible(Boolean value)
+at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+at System.Windows.Forms.Form.ShowDialog()
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.ShowBox(String txtMessage, String txtTitle, DialogMode dlgmode)
+at SimatSoft.Secure.Lincense.Simat_License.SS_License_Validate()
+at SimatSoft.CustomControl.SS_ComboBox..ctor() 
+
+The variable 'sS_ComboBox_Language' is either undeclared or was never assigned. 
+Hide    Edit 
+
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.Error(IDesignerSerializationManager manager, String exceptionText, String helpLink)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeExpression(IDesignerSerializationManager manager, String name, CodeExpression expression)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeExpression(IDesignerSerializationManager manager, String name, CodeExpression expression)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeStatement(IDesignerSerializationManager manager, CodeStatement statement) 
+
+Invalid character in a Base-64 string. 
+Hide     
+
+at System.Convert.FromBase64String(String s)
+at XCrypt.XCryptEngine.SymmetricAlgorithmEngine.Decrypting(String Source, String Key)
+at XCrypt.XCryptEngine.Decrypt(String src)
+at SimatSoft.Cryptography.Class_SimatLicense.Decrypt(String Data)
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.ReadFileLicense(String str_SwID)
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.MyMessageBox_Load(Object sender, EventArgs e)
+at System.Windows.Forms.Form.OnLoad(EventArgs e)
+at System.Windows.Forms.Form.OnCreateControl()
+at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+at System.Windows.Forms.Control.CreateControl()
+at System.Windows.Forms.Control.WmShowWindow(Message& m)
+at System.Windows.Forms.Control.WndProc(Message& m)
+at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+at System.Windows.Forms.Form.WmShowWindow(Message& m)
+at System.Windows.Forms.Form.WndProc(Message& m)
+at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+at System.Windows.Forms.Control.set_Visible(Boolean value)
+at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+at System.Windows.Forms.Form.ShowDialog()
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.ShowBox(String txtMessage, String txtTitle, DialogMode dlgmode)
+at SimatSoft.Secure.Lincense.Simat_License.SS_License_Validate()
+at SimatSoft.CustomControl.SS_MaskedTextBox..ctor() 
+
+Invalid character in a Base-64 string. 
+Hide     
+
+at System.Convert.FromBase64String(String s)
+at XCrypt.XCryptEngine.SymmetricAlgorithmEngine.Decrypting(String Source, String Key)
+at XCrypt.XCryptEngine.Decrypt(String src)
+at SimatSoft.Cryptography.Class_SimatLicense.Decrypt(String Data)
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.ReadFileLicense(String str_SwID)
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.MyMessageBox_Load(Object sender, EventArgs e)
+at System.Windows.Forms.Form.OnLoad(EventArgs e)
+at System.Windows.Forms.Form.OnCreateControl()
+at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+at System.Windows.Forms.Control.CreateControl()
+at System.Windows.Forms.Control.WmShowWindow(Message& m)
+at System.Windows.Forms.Control.WndProc(Message& m)
+at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+at System.Windows.Forms.Form.WmShowWindow(Message& m)
+at System.Windows.Forms.Form.WndProc(Message& m)
+at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+at System.Windows.Forms.Control.set_Visible(Boolean value)
+at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+at System.Windows.Forms.Form.ShowDialog()
+at SimatSoft.Secure.Lincense.SS_MyMessageBox.ShowBox(String txtMessage, String txtTitle, DialogMode dlgmode)
+at SimatSoft.Secure.Lincense.Simat_License.SS_License_Validate()
+at SimatSoft.CustomControl.SS_MaskedTextBox..ctor() 
+
+The variable 'sS_MaskedTextBox_Password' is either undeclared or was never assigned. 
+Hide    Edit 
+
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.Error(IDesignerSerializationManager manager, String exceptionText, String helpLink)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeExpression(IDesignerSerializationManager manager, String name, CodeExpression expression)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeExpression(IDesignerSerializationManager manager, String name, CodeExpression expression)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeStatement(IDesignerSerializationManager manager, CodeStatement statement) 
+
+The variable 'sS_MaskedTextBox_UserID' is either undeclared or was never assigned. 
+Hide    Edit 
+
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.Error(IDesignerSerializationManager manager, String exceptionText, String helpLink)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeExpression(IDesignerSerializationManager manager, String name, CodeExpression expression)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeExpression(IDesignerSerializationManager manager, String name, CodeExpression expression)
+at System.ComponentModel.Design.Serialization.CodeDomSerializerBase.DeserializeStatement(IDesignerSerializationManager manager, CodeStatement statement) 

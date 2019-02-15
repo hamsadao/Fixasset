@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>Select usid,usname,usLstChg,whcode from whuser  </Query>
+    <Orderby>order by usid </Orderby>
+  </Control>
+</Controls:Controls>

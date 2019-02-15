@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>
+		SELECT     FormatBarCodeAsset.AssetID, Asset.AssetName
+		FROM         FormatBarCodeAsset INNER JOIN
+		Asset ON FormatBarCodeAsset.AssetID = Asset.AssetID
+	</Query>
+    <Orderby>order by FormatBarCodeAsset.AssetID </Orderby>
+  </Control>
+</Controls:Controls>

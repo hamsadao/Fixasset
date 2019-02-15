@@ -1,0 +1,4 @@
+23/5/2007 15:25:43>>>>> Could not find file 'C:\Documents and Settings\ngoh\Desktop\Project_PC_FixAsset_DatabaseOld\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-S.xml'.
+6/15/2008 4:45:38 PM>>>>> Object reference not set to an instance of an object.
+09/12/2009 10:38:08>>>>> Object reference not set to an instance of an object.
+23/1/2562 10:20:47>>>>> Load report failed.

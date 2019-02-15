@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <AssetID>0000000001</AssetID>
+    <modelID>-</modelID>
+    <buildID>B01</buildID>
+    <floorID>FL01</floorID>
+    <areaID>A-A-A1</areaID>
+    <SerialNo />
+    <Remark />
+    <typeID>C</typeID>
+    <UserName>sa</UserName>
+    <CreatedDate>2003-12-03T00:00:00+07:00</CreatedDate>
+    <Faccode>DEMO</Faccode>
+  </Table>
+  <Table>
+    <AssetID>0000000002</AssetID>
+    <modelID>-</modelID>
+    <buildID>B02</buildID>
+    <floorID>FL02</floorID>
+    <areaID>A-A-A2</areaID>
+    <SerialNo />
+    <Remark />
+    <typeID>C</typeID>
+    <UserName>sa</UserName>
+    <CreatedDate>2003-12-03T00:00:00+07:00</CreatedDate>
+    <Faccode>DEMO</Faccode>
+  </Table>
+</NewDataSet>

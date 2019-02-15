@@ -1,0 +1,151 @@
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.Form_Present.resources
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\ORM\Config\Mappings.config
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.pdb
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.CustomControl.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\WilsonORMapper.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.pdb
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.pdb
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.pdb
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Cryptography.dll
+D:\Simat Soft\Bee\CEVA\Fix Asset\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Secure.License.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\ORM\Config\Mappings.config
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.CustomControl.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\WilsonORMapper.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Cryptography.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Secure.License.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.Form_Present.resources
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\ORM\Config\Mappings.config
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.CustomControl.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\WilsonORMapper.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Cryptography.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Secure.License.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.Form_Present.resources
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.dll
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.pdb
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.Simat.QueryManager.Form_Present.resources
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.SimatSoft.QueryManager.Form_Present.resources
+D:\Project CEVA\CEVA\CEVA\PC\Source Code\PC_V1.2.3.0\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.Form_Reprint_AssetBarcode.resources
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\ORM\Config\Mappings.config
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.pdb
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.CustomControl.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\WilsonORMapper.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Cryptography.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Secure.License.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.pdb
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.pdb
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.Simat.QueryManager.Form_Present.resources
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.SimatSoft.QueryManager.Form_Present.resources
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.Form_Present.resources
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.Form_Reprint_AssetBarcode.resources
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.dll
+D:\Project11_CEVA\On21-09-09\On21-09-09\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.pdb
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.Simat.QueryManager.Form_Present.resources
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.SimatSoft.QueryManager.Form_Present.resources
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\ORM\Config\Mappings.config
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.pdb
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.CustomControl.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\WilsonORMapper.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Cryptography.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Secure.License.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.pdb
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.pdb
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.Form_Present.resources
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.Form_Reprint_AssetBarcode.resources
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.dll
+D:\All_Project\Project_CEVA\Current\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.pdb
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\ORM\Config\Mappings.config
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.pdb
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.CustomControl.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\WilsonORMapper.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Cryptography.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Secure.License.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.pdb
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.pdb
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.Simat.QueryManager.Form_Present.resources
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.SimatSoft.QueryManager.Form_Present.resources
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.Form_Present.resources
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.Form_Reprint_AssetBarcode.resources
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.dll
+D:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.pdb
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\ORM\Config\Mappings.config
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.QueryManager.pdb
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.CustomControl.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\WilsonORMapper.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Cryptography.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.Secure.License.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simat_DB.pdb
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\Simatsoft.Log.pdb
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.Simat.QueryManager.Form_Present.resources
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.SimatSoft.QueryManager.Form_Present.resources
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.Form_Present.resources
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.Form_Reprint_AssetBarcode.resources
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.dll
+D:\_Developer\CEVA_Minburi\_BackUp\11112011\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.pdb
+H:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+H:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.Simat.QueryManager.Form_Present.resources
+H:\_Developer\CEVA_Minburi\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.obj.Debug.SimatSoft.QueryManager.Form_Present.resources

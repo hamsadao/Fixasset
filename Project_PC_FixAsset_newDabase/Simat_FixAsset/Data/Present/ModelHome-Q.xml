@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>
+		SELECT modelID,modelName,brand,value FROM model
+	</Query>
+    <Orderby>order by modelID </Orderby>
+  </Control>
+</Controls:Controls>

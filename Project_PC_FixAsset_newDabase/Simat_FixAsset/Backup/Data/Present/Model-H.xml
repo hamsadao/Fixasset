@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Control>
+		<name>Model ID</name>
+		<entity>modelID</entity>
+		<width>150 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>Model Name</name>
+		<entity>modelName</entity>
+		<width>150 </width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+	<Control>
+		<name>Value</name>
+		<entity>Value</entity>
+		<width>150 </width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+
+</Controls:Controls>

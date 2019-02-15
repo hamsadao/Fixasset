@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>Form_001002_ReceivePurchaseOrder</IDCTRL>
+		<IDDESC>ID:001002(เอกสารรับสั่งซื้อ)</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_PONo</IDCTRL>
+		<IDDESC>หมายเลขเอกสารการสั่งซื้อ:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_SupplierNo</IDCTRL>
+		<IDDESC>หมายเลขซัพพลายเออร์:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Date</IDCTRL>
+		<IDDESC>วันที่:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_DepartmentName</IDCTRL>
+		<IDDESC>แผนก:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_FacilityNo</IDCTRL>
+		<IDDESC>บริษัท:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Remark</IDCTRL>
+		<IDDESC>หมายเหตุ:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Type</IDCTRL>
+		<IDDESC>ประเภท:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Detail</IDCTRL>
+		<IDDESC>Detail:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_AssetDetail</IDCTRL>
+		<IDDESC>AssetDetail:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

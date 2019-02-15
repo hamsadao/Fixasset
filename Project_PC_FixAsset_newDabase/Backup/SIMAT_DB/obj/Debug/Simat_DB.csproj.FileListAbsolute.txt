@@ -1,0 +1,7 @@
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SIMAT_DB\bin\Debug\ORM\Config\Mappings.config
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SIMAT_DB\bin\Debug\Simat_DB.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SIMAT_DB\bin\Debug\Simat_DB.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SIMAT_DB\bin\Debug\WilsonORMapper.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SIMAT_DB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SIMAT_DB\obj\Debug\Simat_DB.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SIMAT_DB\obj\Debug\Simat_DB.pdb

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002005_Supplier</IDCTRL>
+		<IDDESC>ID:002005(Supplier)</IDDESC>
+	</Menu> 
+	<Menu>
+    <IDCTRL>LBL_SupplierNo</IDCTRL>
+	<IDDESC>Supplier No:</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>LBL_SupplierFirstName</IDCTRL>
+	<IDDESC>Supplier Name:</IDDESC>
+  </Menu>
+	<Menu>
+		<IDCTRL>LBL_SupplierLastName</IDCTRL>
+		<IDDESC>Tax ID:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_SupplierTypes</IDCTRL>
+		<IDDESC>Supplier Types:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Address1</IDCTRL>
+		<IDDESC>Address1:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Address2</IDCTRL>
+		<IDDESC>Address2:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_City</IDCTRL>
+		<IDDESC>City:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_State</IDCTRL>
+		<IDDESC>State:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Zip</IDCTRL>
+		<IDDESC>Zip:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Phone</IDCTRL>
+		<IDDESC>Phone:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Fax</IDCTRL>
+		<IDDESC>Fax:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Email</IDCTRL>
+		<IDDESC>Email:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Contact</IDCTRL>
+		<IDDESC>Contact:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Reason</IDCTRL>
+		<IDDESC>Remark:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_CompanyNo</IDCTRL>
+		<IDDESC>Company No:</IDDESC>
+	</Menu>
+
+</Controls:Controls>

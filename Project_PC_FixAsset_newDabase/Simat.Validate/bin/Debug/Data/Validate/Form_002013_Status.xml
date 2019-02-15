@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+		<Control>
+			<controlname>panel_Status.sS_MaskedTextBox_StatusID</controlname>
+			<description>Status ID</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>1</min>
+			<max>5</max>
+		</Control>
+		<Control>
+			<controlname>panel_Status.sS_MaskedTextBox_StatusName</controlname>
+			<description>Status Name</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>15</max>
+		</Control>	
+</Controls:Controls>

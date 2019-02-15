@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_001002_ReceivePurchaseOrder</IDCTRL>
+    <IDDESC>ID:001002(ReceivePurchaseOrder)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PONo</IDCTRL>
+    <IDDESC>PO No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_SupplierNo</IDCTRL>
+	  <IDDESC>Supplier No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Date</IDCTRL>
+    <IDDESC>Date:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_DepartmentName</IDCTRL>
+    <IDDESC>Department :</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_CompanyNo</IDCTRL>
+    <IDDESC>Company No:</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Remark</IDCTRL>
+		<IDDESC>Remark:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>sS_ComboBox_Type</IDCTRL>
+		<IDDESC>Type:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Detail</IDCTRL>
+		<IDDESC>Detail:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_AssetDetail</IDCTRL>
+		<IDDESC>Asset Detail:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

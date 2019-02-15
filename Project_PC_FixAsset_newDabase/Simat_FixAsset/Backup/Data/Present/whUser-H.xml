@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Control>
+		<name>UserID</name>
+		<entity>usID</entity>
+		<width>100 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>FirstName</name>
+		<entity>usFirstName</entity>
+		<width>100</width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+	<Control>
+		<name>LastName</name>
+		<entity>usLastName</entity>
+		<width>100</width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+	<Control>
+		<name>Password</name>
+		<entity>usPass</entity>
+		<width>100</width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+	<Control>
+		<name>GroupID</name>
+		<entity>usGroupID</entity>
+		<width>100</width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+	<Control>
+		<name>Department</name>
+		<entity>deptID</entity>
+		<width>100</width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+<Control>
+		<name>Facility</name>
+		<entity>FacCode</entity>
+		<width>100</width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+<Control>
+		<name>CreatedDate</name>
+		<entity>CreatedDate</entity>
+		<width>100</width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+	<Control>
+		<name>ActiveFlag</name>
+		<entity>ActiveFlag</entity>
+		<width>100</width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+</Controls:Controls>

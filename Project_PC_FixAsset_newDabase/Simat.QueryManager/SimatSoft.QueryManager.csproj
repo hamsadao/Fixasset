@@ -1,0 +1,177 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C4D56114-9F8B-4239-84B9-7ECECAE82B09}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Simatsoft.QueryManager</RootNamespace>
+    <AssemblyName>Simatsoft.QueryManager</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SimatSoft.CustomControl, Version=1.0.2832.30881, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Simat_FixAsset\Custom Control\SimatSoft.CustomControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WilsonORMapper, Version=4.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Simat_FixAsset\Custom Control\WilsonORMapper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="ClassMenuMapping.cs" />
+    <Compile Include="Class_Collist.cs" />
+    <Compile Include="Class_ListData.cs" />
+    <Compile Include="Class_PresentData.cs" />
+    <Compile Include="Class_QueryManager.cs" />
+    <Compile Include="Form_Present.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Present.Designer.cs">
+      <DependentUpon>Form_Present.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Reprint_AssetBarcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Reprint_AssetBarcode.Designer.cs">
+      <DependentUpon>Form_Reprint_AssetBarcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form_Present.resx">
+      <DependentUpon>Form_Present.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Reprint_AssetBarcode.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_Reprint_AssetBarcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\Simat.QueryManager.Form_Present.resources" />
+    <EmbeddedResource Include="obj\Debug\SimatSoft.QueryManager.Form_Present.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Simat_Control\SimatSoft.ControlBasic.csproj">
+      <Project>{E75F7385-8729-4A7E-A2C6-2EF496155CFD}</Project>
+      <Name>SimatSoft.ControlBasic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIMAT_DB\Simat_DB.csproj">
+      <Project>{74F62E89-ECED-4763-9C5E-F2C33A841331}</Project>
+      <Name>SimatSoft.DB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Simat_Log\SimatSoft.Log.csproj">
+      <Project>{D290776E-5E46-4FAC-8135-91D8F3716E0C}</Project>
+      <Name>SimatSoft.Log</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Simatsoft.QueryManager.dll" />
+    <Content Include="obj\Debug\Refactor\Simat.QueryManager.dll" />
+    <Content Include="obj\Debug\Refactor\Simatsoft.QueryManager.dll" />
+    <Content Include="obj\Debug\Simat.QueryManager.dll" />
+    <Content Include="obj\Debug\Simat.QueryManager.pdb" />
+    <Content Include="obj\Debug\Simatsoft.QueryManager.dll" />
+    <Content Include="obj\Debug\Simatsoft.QueryManager.pdb" />
+    <Content Include="obj\Simat.QueryManager.csproj.FileList.txt" />
+    <Content Include="obj\SimatSoft.QueryManager.csproj.FileList.txt" />
+    <Content Include="obj\SimatSoft.QueryManager.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="obj\Debug\ResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\Simat.QueryManager.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

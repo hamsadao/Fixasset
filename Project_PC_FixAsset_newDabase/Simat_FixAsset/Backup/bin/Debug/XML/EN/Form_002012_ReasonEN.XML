@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002012_Reason</IDCTRL>
+		<IDDESC>ID:002012(Reason)</IDDESC>
+	</Menu> 
+	<Menu>
+    <IDCTRL>LBL_ReasonNo</IDCTRL>
+	<IDDESC>Reason No:</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>LBL_Reason</IDCTRL>
+	<IDDESC>Reason:</IDDESC>
+  </Menu>
+</Controls:Controls>

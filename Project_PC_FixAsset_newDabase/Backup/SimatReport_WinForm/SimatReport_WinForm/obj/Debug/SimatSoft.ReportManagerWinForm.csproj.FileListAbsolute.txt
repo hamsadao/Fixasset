@@ -1,0 +1,6 @@
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SimatReport_WinForm\SimatReport_WinForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SimatReport_WinForm\SimatReport_WinForm\obj\Debug\Simatsoft.ReportManagerWinForm.Form1.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SimatReport_WinForm\SimatReport_WinForm\obj\Debug\SimatSoft.ReportManagerWinForm.Form_MainReport.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SimatReport_WinForm\SimatReport_WinForm\obj\Debug\SimatSoft.ReportManagerWinForm.FormReport.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SimatReport_WinForm\SimatReport_WinForm\obj\Debug\Simatsoft.ReportManagerWinForm.Properties.Resources.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\SimatReport_WinForm\SimatReport_WinForm\obj\Debug\SimatSoft.ReportManagerWinForm.csproj.GenerateResource.Cache

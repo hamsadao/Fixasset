@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <name>Facility</name>
+    <description>Facility</description>
+    <defaultvalue></defaultvalue>
+    <entity>{facility.faccode}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select faccode from facility</sqlshowdata>
+  </Control>
+  <Control>
+    <name>Location</name>
+    <description>Location</description>
+    <defaultvalue></defaultvalue>
+    <entity>{Area.AreaID}</entity>
+    <controltype>combobox</controltype>
+    <width>100 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>like</operation>
+    <prefix></prefix>
+    <sufix>*</sufix>
+    <nextoperation>and</nextoperation>
+    <sqlshowdata>Select areaID from area </sqlshowdata>
+  </Control>
+ </Controls:Controls>

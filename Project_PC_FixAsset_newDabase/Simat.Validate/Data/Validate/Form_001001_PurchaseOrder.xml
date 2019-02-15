@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+		<Control>
+			<controlname>panel_PurchaseOrder.sS_MaskedTextBox_PONo</controlname>
+			<description>PO No</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>1</min>
+			<max>10</max>
+		</Control>
+		<Control>
+			<controlname>panel_PurchaseOrder.sS_MaskedTextBox_SupplierNo</controlname>
+			<description>Supplier No</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>15</max>
+		</Control>
+		<Control>
+			<controlname>panel_PurchaseOrder.sS_ComboBox_Type</controlname>
+			<description>Type</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>5</max>
+		</Control>
+		<Control>
+			<controlname>panel_PurchaseOrder.sS_MaskedTextBox_DepartmentNo</controlname>
+			<description>Type</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>15</max>
+		</Control>
+		<Control>
+			<controlname>panel_PurchaseOrder.sS_MaskedTextBox_Remark</controlname>
+			<description>Type</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>30</max>
+		</Control>
+		<Control>
+			<controlname>panel_PurchaseOrder.sS_MaskedTextBox_FacilityNo</controlname>
+			<description>Type</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>10</max>
+		</Control>
+	</Controls:Controls>

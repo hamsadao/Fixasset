@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <name>FromAssetNo</name>
+    <description>Asset No:</description>
+    <defaultvalue></defaultvalue>
+    <entity>{VW_AssetMaster.AssetID}</entity>
+    <controltype>textbox</controltype>
+    <width>180 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>>=</operation>
+    <prefix></prefix>
+    <sufix></sufix>
+    <nextoperation>and</nextoperation>
+  </Control>
+  <Control>
+    <name>ToAssetNo</name>
+    <description>To Asset No:</description>
+    <defaultvalue></defaultvalue>
+    <entity>{VW_AssetMaster.AssetID}</entity>
+    <controltype>textbox</controltype>
+    <width>180 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>&lt;=</operation>
+    <prefix></prefix>
+    <sufix></sufix>
+    <nextoperation>and</nextoperation>
+  </Control>
+
+</Controls:Controls>

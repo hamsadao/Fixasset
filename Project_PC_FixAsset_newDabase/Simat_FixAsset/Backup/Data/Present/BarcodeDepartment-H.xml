@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Control>
+		<name>DepartmentID</name>
+		<entity>deptID</entity>
+		<width>150 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>Department Name</name>
+		<entity>deptName</entity>
+		<width>150 </width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+</Controls:Controls>

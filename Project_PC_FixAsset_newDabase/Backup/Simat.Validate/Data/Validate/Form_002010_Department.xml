@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+		<Control>
+			<controlname>panel_Department.sS_MaskedTextBox_DepartmentNo</controlname>
+			<description>Department No</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>1</min>
+			<max>15</max>
+		</Control>
+		<Control>
+			<controlname>panel_Department.sS_MaskedTextBox_DepartmentName</controlname>
+			<description>Department Name</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>30</max>
+		</Control>
+		<Control>
+			<controlname>panel_Department.sS_MaskedTextBox_FacilityNo</controlname>
+			<description>Facility No</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>10</max>
+		</Control>
+		
+</Controls:Controls>

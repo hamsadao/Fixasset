@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <Query>SELECT usGroupID,usGroupName,FacCode FROM whGroup
+	</Query>
+    <Orderby>order by usGroupID </Orderby>
+  </Control>
+</Controls:Controls>

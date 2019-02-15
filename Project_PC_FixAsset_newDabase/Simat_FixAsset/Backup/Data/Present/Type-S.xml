@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <name>panel_Type.sS_MaskedTextBox_TypeNo</name>
+    <description>Origin code</description>
+    <defaultvalue></defaultvalue>
+    <entity>Typeid</entity>
+    <controltype>textbox</controltype>
+    <width>200 </width>
+    <datatype>string </datatype>
+    <format></format>
+    <operation>=</operation>
+    <prefix></prefix>
+    <sufix></sufix>
+    <nextoperation>or</nextoperation>
+  </Control>
+  <Control>
+		<name>panel_Type.sS_MaskedTextBox_TypeName</name>
+		<description>Origin code</description>
+		<defaultvalue></defaultvalue>
+		<entity>Typename</entity>
+		<controltype>textbox</controltype>
+		<width>200 </width>
+		<datatype>string </datatype>
+		<format></format>
+		<operation>like</operation>
+		<prefix>%</prefix>
+		<sufix></sufix>
+		<nextoperation>or</nextoperation>
+  </Control>
+</Controls:Controls>

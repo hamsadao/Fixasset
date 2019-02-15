@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_005001_BarcodeAsset</IDCTRL>
+		<IDDESC>ID:005001(BarcodeAsset)</IDDESC>
+	</Menu>
+	<Menu>
+    <IDCTRL>label_AssetID</IDCTRL>
+	<IDDESC>AssetID.</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>label_Remark</IDCTRL>
+	<IDDESC>Remark:</IDDESC>
+  </Menu>
+</Controls:Controls>

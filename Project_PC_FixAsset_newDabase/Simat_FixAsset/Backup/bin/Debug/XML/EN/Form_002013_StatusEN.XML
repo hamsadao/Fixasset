@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002013_Status</IDCTRL>
+		<IDDESC>ID:002013(Status)</IDDESC>
+	</Menu> 
+	<Menu>
+    <IDCTRL>LBL_StatusID</IDCTRL>
+	<IDDESC>Status ID:</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>LBL_StatusName</IDCTRL>
+	<IDDESC>Status:</IDDESC>
+  </Menu>
+</Controls:Controls>

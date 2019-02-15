@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Setup.FixAsset">
+</Property><Property Name="Solution File" Value="D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Setup.FixAsset\Setup.FixAsset.sln">
+</Property><Property Name="User Options File" Value="D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Setup.FixAsset\Setup.FixAsset.suo">
+</Property><Property Name="Date" Value="Thursday, October 25, 2018">
+</Property><Property Name="Time" Value="17:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Setup.FixAsset.sln" Description="File successfully backed up as D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Setup.FixAsset\Backup\Setup.FixAsset.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Setup.FixAsset.suo" Description="File successfully backed up as D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Setup.FixAsset\Backup\Setup.FixAsset.suo">
+</Event><Event ErrorLevel="0" Project="Setup.FixAsset.vdproj" Source="Setup.FixAsset.vdproj" Description="Project file successfully backed up as D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Setup.FixAsset\Backup\Setup.FixAsset.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Setup.FixAsset.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Setup.FixAsset.sln" Description="Converted">
+</Event></UpgradeLog>

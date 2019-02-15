@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Control>
+		<name>Supplier No.</name>
+		<entity>vendorID</entity>
+		<width>150 </width>
+		<datatype>string </datatype>
+		<format></format>
+	</Control>
+	<Control>
+		<name>Supplier Name</name>
+		<entity>vendorFirstName</entity>
+		<width>150 </width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+	<Control>
+		<name>Tax ID</name>
+		<entity>vendorLastName</entity>
+		<width>150 </width>
+		<datatype>string </datatype>
+		<format></format>
+		<align>left</align>
+	</Control>
+
+</Controls:Controls>

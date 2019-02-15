@@ -1,0 +1,13 @@
+bin\Debug\ORM\Config\Mappings.config
+bin\Debug\Simat_DB.dll
+bin\Debug\Simat_DB.pdb
+bin\Debug\SimatSoft.CustomControl.dll
+bin\Debug\WilsonORMapper.dll
+bin\Debug\SimatSoft.Data.MessageScreen.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Simat_DB.obj.Debug.Simat_DB.Properties.Resources.resources
+obj\Debug\Simat_DB.obj.Release.Simat_DB.Properties.Resources.resources
+obj\Debug\Simat_DB.dll
+obj\Debug\Simat_DB.pdb
+bin\Debug\SimatSoft.Cryptography.dll
+bin\Debug\SimatSoft.Secure.License.dll

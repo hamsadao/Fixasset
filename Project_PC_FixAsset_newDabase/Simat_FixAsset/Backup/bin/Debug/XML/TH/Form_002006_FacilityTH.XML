@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_002006_Facility</IDCTRL>
+    <IDDESC>ID:002006(โรงงาน)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FacilityNo</IDCTRL>
+    <IDDESC>รหัสโรงงาน:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FacilityName</IDCTRL>
+    <IDDESC>ชื่อโรงงาน:</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Address1</IDCTRL>
+		<IDDESC>ที่อยู่ 1:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Address2</IDCTRL>
+		<IDDESC>ที่อยู่ 2:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_City</IDCTRL>
+		<IDDESC>เมือง:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Phone</IDCTRL>
+		<IDDESC>โทรศัพท์:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

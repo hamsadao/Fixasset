@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+		<Control>
+			<controlname>panel_Custodian.sS_MaskedTextBox_CustodianNo</controlname>
+			<description>Custodian No</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>1</min>
+			<max>15</max>
+		</Control>
+		<Control>
+			<controlname>panel_Custodian.sS_MaskedTextBox_FirstName</controlname>
+			<description>First Name</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>30</max>
+		</Control>
+		<Control>
+			<controlname>panel_Custodian.sS_MaskedTextBox_LastName</controlname>
+			<description>Last Name</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>30</max>
+		</Control>
+		<Control>
+			<controlname>panel_Custodian.sS_MaskedTextBox_DepartmentNo</controlname>
+			<description>Department No</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>15</max>
+		</Control>
+		<Control>
+			<controlname>panel_Custodian.sS_MaskedTextBox_Remark</controlname>
+			<description>Remark </description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>100</max>
+		</Control>
+		<Control>
+			<controlname>panel_Custodian.sS_MaskedTextBox_FacilityNo</controlname>
+			<description>Facility </description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>10</max>
+		</Control>
+</Controls:Controls>

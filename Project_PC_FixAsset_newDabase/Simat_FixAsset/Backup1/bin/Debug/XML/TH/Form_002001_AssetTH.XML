@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_002001_Asset</IDCTRL>
+    <IDDESC>ID:002001(ข้อมูลอุปกรณ์)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_AssetNo</IDCTRL>
+    <IDDESC>รหัสสินค้า:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_JDENo</IDCTRL>
+    <IDDESC>รหัส JDE:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_AssetName</IDCTRL>
+    <IDDESC>ชื่อสินค้า:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_SName</IDCTRL>
+    <IDDESC>ชื่อสั้นสินค้า:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_ModelID</IDCTRL>
+    <IDDESC>รุ่น:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_SerialNo</IDCTRL>
+    <IDDESC>Serial No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_TypeNo</IDCTRL>
+    <IDDESC>ประเภท:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_SupplierNo</IDCTRL>
+    <IDDESC>ซัพพลายเออร์:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_DepartmentNo</IDCTRL>
+    <IDDESC>แผนก:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_BuildingNo</IDCTRL>
+    <IDDESC>ห้อง:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FloorNo</IDCTRL>
+    <IDDESC>ชั้น:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_AreaNo</IDCTRL>
+    <IDDESC>พื้นที่จัดเก็บ:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_ReasonNo</IDCTRL>
+    <IDDESC>เหตุผล:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_CurrentCustodianNo</IDCTRL>
+    <IDDESC>ผู้ใช้งานปัจจุบัน:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PreviousCustodianNo</IDCTRL>
+    <IDDESC>ผู้ใช้งานอดีต:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Remark</IDCTRL>
+    <IDDESC>หมายเหตุ:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PurchasePrice</IDCTRL>
+    <IDDESC>ราคา:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_StatusNo</IDCTRL>
+    <IDDESC>สถานะ:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_WarrantyStartDate</IDCTRL>
+    <IDDESC>เริ่มประกันตั้งแต่ - จนถึง:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_WarrantyEndDate</IDCTRL>
+    <IDDESC>หมดประกัน:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_MANo</IDCTRL>
+    <IDDESC>หมายเลขสัญญา MA:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Capex</IDCTRL>
+    <IDDESC>หมายเลข Capex:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_QTNo</IDCTRL>
+    <IDDESC>หมายเลขใบเสนอราคา:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_InvNo</IDCTRL>
+    <IDDESC>หมายเลขใบกำกับภาษี:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_InvDt</IDCTRL>
+    <IDDESC>วันที่ออกใบกำกับภาษี:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PRNo</IDCTRL>
+    <IDDESC>หมายเลขใบขอสั่งซื้อ:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PONo</IDCTRL>
+    <IDDESC>หมายเลขใบสั่งซื้อ:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_UserName</IDCTRL>
+    <IDDESC>ชื่อผู้ป้อน:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_DateAdded</IDCTRL>
+    <IDDESC>วันที่ป้อน:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_LastInventoryDate</IDCTRL>
+    <IDDESC>วันที่จัดเก็บ:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_MAStartDt</IDCTRL>
+    <IDDESC>วันที่เริ่มต้น MA:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_MAEndDt</IDCTRL>
+    <IDDESC>วันที่สิ้นสุด MA:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Facility</IDCTRL>
+		<IDDESC>บริษัท:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

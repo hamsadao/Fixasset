@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002007_Area</IDCTRL>
+		<IDDESC>ID:002007(Area)</IDDESC>
+	</Menu> 
+	<Menu>
+    <IDCTRL>LBL_AreaNo</IDCTRL>
+	<IDDESC>Area No:</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>LBL_AreaName</IDCTRL>
+	<IDDESC>Area Name:</IDDESC>
+  </Menu>
+	<Menu>
+		<IDCTRL>LBL_CompanyNo</IDCTRL>
+		<IDDESC>Company:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_FloorNo</IDCTRL>
+		<IDDESC>Floor No:</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>LBL_BuildingNo</IDCTRL>
+		<IDDESC>Building No:</IDDESC>
+	</Menu>
+</Controls:Controls>

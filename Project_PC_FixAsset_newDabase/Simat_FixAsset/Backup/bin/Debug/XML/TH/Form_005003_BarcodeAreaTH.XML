@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_005003_BarcodeArea</IDCTRL>
+		<IDDESC>ID:005003(BarcodeArea)</IDDESC>
+	</Menu>
+	<Menu>
+    <IDCTRL>label_AreaID</IDCTRL>
+	<IDDESC>รหัสพื้นที่.</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>label_Remark</IDCTRL>
+	<IDDESC>หมายเหตุ:</IDDESC>
+  </Menu>
+</Controls:Controls>

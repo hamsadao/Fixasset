@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002002_Model</IDCTRL>
+		<IDDESC>ID:002002(Model)</IDDESC>
+	</Menu> 
+	<Menu>
+    		<IDCTRL>LBL_Brand</IDCTRL>
+		<IDDESC>Brand</IDDESC>
+  	</Menu>
+	<Menu>
+    		<IDCTRL>LBL_ModelNo</IDCTRL>
+		<IDDESC>Model ID:</IDDESC>
+  	</Menu>
+    	<Menu>
+  		<IDCTRL>LBL_ModelName</IDCTRL>
+		<IDDESC>Model Name:</IDDESC>
+  	</Menu>
+	<Menu>
+		<IDCTRL>LBL_Value</IDCTRL>
+		<IDDESC>Value:</IDDESC>
+	</Menu>
+</Controls:Controls>

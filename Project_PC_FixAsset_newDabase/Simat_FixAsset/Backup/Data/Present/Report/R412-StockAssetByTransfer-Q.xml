@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Control>
+    <ReportFile>File\\R412_Asset_Detail_by_Transfer.rpt</ReportFile>
+    <Reportname>Asset Transfer</Reportname >
+    <Query></Query>
+    <Orderby></Orderby>
+    <Datasource>ReportRM</Datasource>
+    <Reporttype>ODBC</Reporttype>
+  </Control>
+
+</Controls:Controls>

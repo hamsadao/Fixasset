@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+	<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+		<Control>
+			<controlname>panel_Reason.sS_MaskedTextBox_ReasonNo</controlname>
+			<description>Reason No</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>1</min>
+			<max>5</max>
+		</Control>
+		<Control>
+			<controlname>panel_Reason.sS_MaskedTextBox_Reason</controlname>
+			<description>Reason</description>
+			<controltype>textbox</controltype>
+			<datatype>CHAR</datatype>
+			<min>0</min>
+			<max>30</max>
+		</Control>	
+</Controls:Controls>

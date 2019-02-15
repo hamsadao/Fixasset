@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+  <Menu>
+    <IDCTRL>btnOK</IDCTRL>
+	<IDDESC>ตกลง</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>btnCancel</IDCTRL>
+	<IDDESC>ยกเลิก</IDDESC>
+  </Menu>
+   <Menu>
+    <IDCTRL>btExportERR</IDCTRL>
+	<IDDESC>Description</IDDESC>
+  </Menu>
+   <Menu>
+    <IDCTRL>lbl_Cap_Exception</IDCTRL>
+	<IDDESC>Detail :</IDDESC>
+  </Menu>
+   <Menu>
+    <IDCTRL>bt_ExportError</IDCTRL>
+	<IDDESC>SendError and Close</IDDESC>
+  </Menu>
+</Controls:Controls>

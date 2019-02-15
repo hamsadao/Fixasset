@@ -1,0 +1,124 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_001000_Mdi</IDCTRL>
+    <IDDESC>ID:001000(Mdi)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStripMenuItem_File</IDCTRL>
+    <IDDESC>File</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_MainMenu</IDCTRL>
+    <IDDESC>Main Menu</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Exit</IDCTRL>
+    <IDDESC>Exit</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStripMenuItem_Edit</IDCTRL>
+    <IDDESC>Edit</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Undo</IDCTRL>
+    <IDDESC>&amp;Undo</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Cut</IDCTRL>
+    <IDDESC>Cu&amp;t</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Copy</IDCTRL>
+    <IDDESC>&amp;Copy</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Paste</IDCTRL>
+    <IDDESC>&amp;Paste</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_SelectAllRecords</IDCTRL>
+    <IDDESC>Select &amp;All Records</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Find</IDCTRL>
+    <IDDESC>&amp;Find...</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Replace</IDCTRL>
+    <IDDESC>Replace</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripMenuItem_Window</IDCTRL>
+    <IDDESC>Window</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_Cascade</IDCTRL>
+    <IDDESC>Cascade</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_TileVertical</IDCTRL>
+    <IDDESC>TileVertical</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_TileHirizontal</IDCTRL>
+    <IDDESC>TileHirizontal</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStripMenuItem_About</IDCTRL>
+    <IDDESC>About</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStripMenuItem_Help</IDCTRL>
+    <IDDESC>Help</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>ToolStrip_UserManual</IDCTRL>
+    <IDDESC>User Manual</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>toolStripButton_Save</IDCTRL>
+		<IDDESC>Save</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Add</IDCTRL>
+    <IDDESC>Add</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Edit</IDCTRL>
+    <IDDESC>Edit</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Delete</IDCTRL>
+    <IDDESC>Delete</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Find</IDCTRL>
+    <IDDESC>Find</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripButton_Export</IDCTRL>
+    <IDDESC>Export</IDDESC>
+  </Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>toolStripButton_Cancel</IDCTRL>
+		<IDDESC>Cancel</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripStatusLabel_DB</IDCTRL>
+    <IDDESC>Database:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripStatusLabel_Server</IDCTRL>
+    <IDDESC>ServerName:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripStatusLabel_LogOn</IDCTRL>
+    <IDDESC>Log On As:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>toolStripStatusLabel_Fac</IDCTRL>
+    <IDDESC>Company:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

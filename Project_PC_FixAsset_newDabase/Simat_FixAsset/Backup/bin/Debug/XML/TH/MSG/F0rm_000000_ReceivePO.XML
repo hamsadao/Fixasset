@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>000001</IDCTRL>
+		<IDDESC>รับใบ PO : "{0}" เรียบร้อย</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000002</IDCTRL>
+		<IDDESC>ไม่สามารถรับข้อมูล : "{0}"</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000003</IDCTRL>
+		<IDDESC>กรุณากรอกข้อมูล</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000004</IDCTRL>
+		<IDDESC>จำนวนรับมากกว่าจำนวนสั่ง</IDDESC>
+	</Menu>
+	<Menu>
+		<IDCTRL>000005</IDCTRL>
+		<IDDESC>กรุณากรอกจำนวนรับ</IDDESC>
+	</Menu>
+</Controls:Controls>

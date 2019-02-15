@@ -1,0 +1,716 @@
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.exe.config
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.ResolveComReference.cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\FixAsset.exe
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\FixAsset.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002001_Asset.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_001001_PurchaseOrder.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002005_Supplier.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002010_Department.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002006_Company.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002003_Pictures.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002007_Area.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002009_Floor.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_006001_UserAuthorize.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002011_Custodian.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002008_Building.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002004_Type.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002002_Model.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\ORM\Config\Mappings.config
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_006002_UserGroupAuthorize.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002012_Reason.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_007000_DatabaseSetup.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002013_Status.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\bin\Debug\Data\Server\DB-ServerPicture.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\bin\Debug\Data\Server\DB-Server.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R48-StockAssetByStatus-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-CheckStock-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-CheckStock-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-Internal_ExternalTransfer-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-Internal_ExternalTransfer-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R44-ExternalTransfer-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R44-ExternalTransfer-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R43-InternalTransfer-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R43-InternalTransfer-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R42-POReceive-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R42-POReceive-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R41-StockAsset-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R41-StockAsset-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Menu.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-H.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-Q.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-S.xml
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Area-Model.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Model-Area.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_ByDetail.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_BySummary.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_ByDetail.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_BySummary.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_ByDetail.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_BySummary.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_CheckStock.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_ByDetail.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_BySummary.rpt
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Area-Model.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Model-Area.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_ByDetail.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_BySummary.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_ByDetail.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_BySummary.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_ByDetail.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_BySummary.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_CheckStock.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_ByDetail.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_BySummary.cs
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.exe
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\th-TH\FixAsset.resources.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\th\FixAsset.resources.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\OpenNETCF.Desktop.Communication.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simat_DB.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.ControlBasic.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Cryptography.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.CustomControl.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Data.MessageScreen.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.Log.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.QueryManager.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ReportManagerWinForm.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ValidateData.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\WilsonORMapper.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.Log.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ValidateData.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simat_DB.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ReportManagerWinForm.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.FolderView.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.LeftSpine.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.MessageArea.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.MessageList.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.RightSpine.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_LOGIN.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_007000_DatabaseSetup.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Form_001000_ABOUT.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_MDI.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005010_Barcode_Asset_New.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005009_Barcode.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005007_Barcode_Custodian.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005006_Barcode_Department.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005005_Barcode_Floor.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005004_Barcode_Building.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005003_Barcode_Area.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005002_Barcode_Model.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005008_PrintBarcodeAsset.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003004_Detail.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003002_HistoryPurchaseOrderHD.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003003_HistoryAssetTransferHD.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002004_Type.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002001_Asset.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002001_AssetPicturePreview.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002002_Model.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002003_Pictures.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002005_Supplier.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002006_Company.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002007_Area.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002008_Building.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002009_Floor.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002010_Department.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002011_Custodian.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002012_Reason.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002013_Status.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_AssetCheckStock.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_WriteOff.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001011_Search.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005001_Barcode_Asset.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003001_HistoryAsset.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_CheckStock.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001006_ExternalTransfer.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001005_ExternalTransferOrder.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001004_InternalTransfer.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001003_InternalTransferOrder.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001008_ImportFile.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001007_Upload_Download_HH.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001002_ReceivePurchaseOrder.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001001_PurchaseOrder.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_MainMenu.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003001_REPORT.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001012_ReceiveNonePO.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_006002_UserGroupAuthorize.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_006001_UserAuthorize.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Properties.Resources.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClassComboBox.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClassTextbox.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClasstoolStripButton.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.Simat_DataSelect.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001000_UserManul.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.th-TH.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.th.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.GenerateResource.Cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\th-TH\FixAsset.resources.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\th\FixAsset.resources.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Secure.License.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\System.Data.SqlServerCe.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csprojResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_007000_DatabaseSetup.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_006002_UserGroupAuthorize.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_006001_UserAuthorize.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_001001_PurchaseOrder.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002013_Status.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002012_Reason.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002011_Custodian.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002010_Department.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002009_Floor.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002007_Area.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002006_Company.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002004_Type.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002005_Supplier.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002003_Pictures.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002001_Asset.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002002_Model.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002008_Building.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\ORM\Config\Mappings.config
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\bin\Debug\Data\Server\DB-ServerPicture.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\bin\Debug\Data\Server\DB-Server.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R48-StockAssetByStatus-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-CheckStock-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-CheckStock-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-Internal_ExternalTransfer-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-Internal_ExternalTransfer-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R44-ExternalTransfer-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R44-ExternalTransfer-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R43-InternalTransfer-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R43-InternalTransfer-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R42-POReceive-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R42-POReceive-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R41-StockAsset-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R41-StockAsset-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Menu.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-H.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-Q.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-S.xml
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Area-Model.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Model-Area.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_ByDetail.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_BySummary.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_ByDetail.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_BySummary.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_ByDetail.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_BySummary.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_CheckStock.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_ByDetail.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_BySummary.rpt
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Area-Model.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Model-Area.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_ByDetail.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_BySummary.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_ByDetail.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_BySummary.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_ByDetail.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_BySummary.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_CheckStock.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_ByDetail.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_BySummary.cs
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.exe.config
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.exe
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\th-TH\FixAsset.resources.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\th\FixAsset.resources.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.ControlBasic.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Cryptography.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.CustomControl.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Data.MessageScreen.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.QueryManager.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ReportManagerWinForm.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Secure.License.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ValidateData.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simat_DB.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FlashControlV71.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ValidateData.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ReportManagerWinForm.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.ControlBasic.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simat_DB.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.ResolveComReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.FolderView.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.LeftSpine.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.MessageArea.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.MessageList.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.RightSpine.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_LOGIN.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_007000_DatabaseSetup.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Form_001000_ABOUT.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_MDI.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005010_Barcode_Asset_New.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005009_Barcode.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005007_Barcode_Custodian.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005006_Barcode_Department.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005005_Barcode_Floor.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005004_Barcode_Building.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005003_Barcode_Area.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005002_Barcode_Model.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005008_PrintBarcodeAsset.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003004_Detail.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003002_HistoryPurchaseOrderHD.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003003_HistoryAssetTransferHD.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002004_Type.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002001_Asset.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002001_AssetPicturePreview.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002002_Model.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002003_Pictures.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002005_Supplier.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002006_Company.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002007_Area.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002008_Building.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002009_Floor.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002010_Department.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002011_Custodian.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002012_Reason.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002013_Status.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_AssetCheckStock.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_WriteOff.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001011_Search.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005001_Barcode_Asset.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003001_HistoryAsset.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_CheckStock.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001006_ExternalTransfer.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001005_ExternalTransferOrder.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001004_InternalTransfer.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001003_InternalTransferOrder.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001008_ImportFile.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001007_Upload_Download_HH.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001002_ReceivePurchaseOrder.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001001_PurchaseOrder.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_MainMenu.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003001_REPORT.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001012_ReceiveNonePO.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_006002_UserGroupAuthorize.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_006001_UserAuthorize.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Properties.Resources.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClassComboBox.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClassTextbox.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClasstoolStripButton.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.Simat_DataSelect.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001000_UserManul.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.th-TH.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.th.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.GenerateResource.Cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\th-TH\FixAsset.resources.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\th\FixAsset.resources.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\FixAsset.exe
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\FixAsset.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\stdole.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csprojAssemblyReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\BarcodeLib.DLL
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\WilsonORMapper.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_007000_DatabaseSetup.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_006002_UserGroupAuthorize.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_006001_UserAuthorize.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_001001_PurchaseOrder.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002013_Status.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002012_Reason.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002011_Custodian.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002010_Department.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002009_Floor.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002007_Area.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002006_Company.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002004_Type.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002005_Supplier.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002003_Pictures.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002001_Asset.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002002_Model.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Validate\Form_002008_Building.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\ORM\Config\Mappings.config
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\bin\Debug\Data\Server\DB-ServerPicture.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\bin\Debug\Data\Server\DB-Server.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\AssetHome-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Building-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Area-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetAdd-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeAssetSelect-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeModel-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeArea-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeBuilding-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeFloor-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeDepartment-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\BarcodeCustodian-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\ModelHome-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R48-StockAssetByStatus-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-CheckStock-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-CheckStock-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-Internal_ExternalTransfer-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\Report-Internal_ExternalTransfer-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R44-ExternalTransfer-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R44-ExternalTransfer-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R43-InternalTransfer-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R43-InternalTransfer-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R42-POReceive-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R42-POReceive-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R41-StockAsset-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\R41-StockAsset-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Status-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Reason-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Model-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whUser-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\whGroup-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Facility-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Department-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Supplier-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Custodian-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Floor-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\InternalTransfer-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Menu.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-H.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-Q.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Type-S.xml
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Area-Model.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Model-Area.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_ByDetail.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_BySummary.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_ByDetail.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_BySummary.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_ByDetail.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_BySummary.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_CheckStock.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_ByDetail.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_BySummary.rpt
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Area-Model.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset-Sum-Model-Area.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R41_StockAsset.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_ByDetail.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R42_POReceive_BySummary.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_ByDetail.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R43_InternalTransfer_BySummary.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_ByDetail.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\R44_ExternalTransfer_BySummary.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_CheckStock.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_ByDetail.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Data\Present\Report\File\Report_Internal_ExternalTransfer_BySummary.cs
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.exe.config
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.exe
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FixAsset.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\th-TH\FixAsset.resources.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\th\FixAsset.resources.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\BarcodeLib.DLL
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.ControlBasic.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Cryptography.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.CustomControl.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Data.MessageScreen.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.QueryManager.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ReportManagerWinForm.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.Secure.License.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ValidateData.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simat_DB.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\WilsonORMapper.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\stdole.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\FlashControlV71.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ValidateData.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.ReportManagerWinForm.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\SimatSoft.ControlBasic.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simat_DB.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\bin\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csprojAssemblyReference.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.ResolveComReference.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.FolderView.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.LeftSpine.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.MessageArea.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.MessageList.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.RightSpine.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_LOGIN.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_007000_DatabaseSetup.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Form_001000_ABOUT.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_MDI.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005010_Barcode_Asset_New.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005009_Barcode.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005007_Barcode_Custodian.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005006_Barcode_Department.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005005_Barcode_Floor.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005004_Barcode_Building.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005003_Barcode_Area.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005002_Barcode_Model.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005008_PrintBarcodeAsset.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003004_Detail.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003002_HistoryPurchaseOrderHD.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003003_HistoryAssetTransferHD.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002004_Type.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002001_Asset.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002001_AssetPicturePreview.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002002_Model.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002003_Pictures.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002005_Supplier.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002006_Company.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002007_Area.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002008_Building.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002009_Floor.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002010_Department.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002011_Custodian.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002012_Reason.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_002013_Status.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_AssetCheckStock.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_WriteOff.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001011_Search.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_005001_Barcode_Asset.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003001_HistoryAsset.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001010_CheckStock.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001006_ExternalTransfer.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001005_ExternalTransferOrder.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001004_InternalTransfer.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001003_InternalTransferOrder.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001008_ImportFile.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001007_Upload_Download_HH.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001002_ReceivePurchaseOrder.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001001_PurchaseOrder.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_000000_MainMenu.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_003001_REPORT.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001012_ReceiveNonePO.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_006002_UserGroupAuthorize.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_006001_UserAuthorize.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Properties.Resources.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClassComboBox.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClassTextbox.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.ClasstoolStripButton.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.Simat_DataSelect.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\SimatSoft.FixAsset.Form_001000_UserManul.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.th-TH.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\System.Windows.Forms.Samples.UserControl1.th.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.GenerateResource.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\th-TH\FixAsset.resources.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\th\FixAsset.resources.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\Project_PC_FixAsset.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\FixAsset.exe
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_FixAsset\obj\Debug\FixAsset.pdb

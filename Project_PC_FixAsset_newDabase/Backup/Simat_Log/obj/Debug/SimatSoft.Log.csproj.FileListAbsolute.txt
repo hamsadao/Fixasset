@@ -1,0 +1,9 @@
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\bin\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\bin\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\bin\Debug\SimatSoft.CustomControl.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\bin\Debug\SimatSoft.Secure.License.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\obj\Debug\SimatSoft.Log.FormLogview.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\obj\Debug\SimatSoft.Log.csproj.GenerateResource.Cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\obj\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Log\obj\Debug\Simatsoft.Log.pdb

@@ -1,0 +1,2 @@
+Timestamp	ProcessID	ThreadID	Message
+[Sat Jul 26 10:19:27 2008]	2036	5804	assert failure: (.\registry.cpp:317). (FALSE : RegOpenKeyEx(Software\ODBC\ODBC.INI\ReportRm) failed. Error code: 5).

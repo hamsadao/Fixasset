@@ -1,0 +1,6 @@
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat.QueryManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.Form_Present.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.Form_Reprint_AssetBarcode.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat.QueryManager\obj\Debug\SimatSoft.QueryManager.csproj.GenerateResource.Cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat.QueryManager\obj\Debug\Simatsoft.QueryManager.pdb

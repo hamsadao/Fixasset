@@ -1,0 +1,140 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>Form_002001_Asset</IDCTRL>
+    <IDDESC>ID:002001(Asset)</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_AssetNo</IDCTRL>
+    <IDDESC>Asset No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_JDENo</IDCTRL>
+    <IDDESC>JDE No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_AssetName</IDCTRL>
+    <IDDESC>Asset Name:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_SName</IDCTRL>
+    <IDDESC>Asset Short Name:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_ModelID</IDCTRL>
+    <IDDESC>Model ID:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_SerialNo</IDCTRL>
+    <IDDESC>Serial No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_TypeNo</IDCTRL>
+    <IDDESC>Type No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_SupplierNo</IDCTRL>
+    <IDDESC>Supplier No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_DepartmentNo</IDCTRL>
+    <IDDESC>Department No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_BuildingNo</IDCTRL>
+    <IDDESC>Building No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_FloorNo</IDCTRL>
+    <IDDESC>Floor No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_AreaNo</IDCTRL>
+    <IDDESC>Area No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_ReasonNo</IDCTRL>
+    <IDDESC>Reason No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_CurrentCustodianNo</IDCTRL>
+    <IDDESC>Current Custodian No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PreviousCustodianNo</IDCTRL>
+    <IDDESC>Previous Custodian No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Remark</IDCTRL>
+    <IDDESC>Remark:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PurchasePrice</IDCTRL>
+    <IDDESC>Purchase Price:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Status</IDCTRL>
+    <IDDESC>Status:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_WarrantyStartDate</IDCTRL>
+    <IDDESC>Warranty From-To Date:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_WarrantyEndDate</IDCTRL>
+    <IDDESC>Warranty End Date:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_MANo</IDCTRL>
+    <IDDESC>MA Contract No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_Capex</IDCTRL>
+    <IDDESC>Capex No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_QTNo</IDCTRL>
+    <IDDESC>Quotation No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_InvNo</IDCTRL>
+    <IDDESC>Invoice No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_InvDt</IDCTRL>
+    <IDDESC>Invoice Date:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PRNo</IDCTRL>
+    <IDDESC>PR No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_PONo</IDCTRL>
+    <IDDESC>PO No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_UserName</IDCTRL>
+    <IDDESC>User Name:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_DateAdded</IDCTRL>
+    <IDDESC>Date Added:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_LastInventoryDate</IDCTRL>
+    <IDDESC>Last Inventory Date:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_MAStartDt</IDCTRL>
+    <IDDESC>MA Start Date:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+    <IDCTRL>LBL_MAEndDt</IDCTRL>
+    <IDDESC>MA End Date No:</IDDESC>
+  </Controls>
+  <Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Company</IDCTRL>
+		<IDDESC>Company:</IDDESC>
+	</Controls>
+  <Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>

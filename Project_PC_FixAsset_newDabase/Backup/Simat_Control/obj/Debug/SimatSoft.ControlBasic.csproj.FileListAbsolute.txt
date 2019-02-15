@@ -1,0 +1,13 @@
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\bin\Debug\SimatSoft.ControlBasic.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\bin\Debug\SimatSoft.ControlBasic.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\bin\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\bin\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClassComboBox.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClassTextbox.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClasstoolStripButton.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\SimatSoft.ControlBasic.SimatDateTimeSelect.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\SimatSoft.ControlBasic.Simat_DataSelect.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.GenerateResource.Cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\SimatSoft.ControlBasic.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Backup\Simat_Control\obj\Debug\SimatSoft.ControlBasic.pdb

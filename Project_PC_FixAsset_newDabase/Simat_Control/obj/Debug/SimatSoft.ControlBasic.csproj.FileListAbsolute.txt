@@ -1,0 +1,45 @@
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\SimatSoft.ControlBasic.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\SimatSoft.ControlBasic.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\Simatsoft.Log.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\Simatsoft.Log.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClassComboBox.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClassTextbox.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClasstoolStripButton.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.SimatDateTimeSelect.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.Simat_DataSelect.resources
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.GenerateResource.Cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.dll
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.pdb
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.CoreCompileInputs.cache
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.CopyComplete
+D:\SimatSoftProject\CEVA_FixedAsset\SourceCode\PC\24-12-2009\Project_PC_FixAsset_newDabase\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csprojAssemblyReference.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\SimatSoft.ControlBasic.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\SimatSoft.ControlBasic.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClassComboBox.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClassTextbox.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClasstoolStripButton.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.SimatDateTimeSelect.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.Simat_DataSelect.resources
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.GenerateResource.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.dll
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.pdb
+C:\Users\Engineer\Desktop\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csprojAssemblyReference.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\SimatSoft.ControlBasic.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\SimatSoft.ControlBasic.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\Simatsoft.Log.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\bin\Debug\Simatsoft.Log.pdb
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csprojAssemblyReference.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClassComboBox.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClassTextbox.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.ClasstoolStripButton.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.SimatDateTimeSelect.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.Simat_DataSelect.resources
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.GenerateResource.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.CoreCompileInputs.cache
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.csproj.CopyComplete
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.dll
+C:\Users\Engineer\Desktop\Job finish\Fixasset_pc\Project_PC_FixAsset_newDabase\Simat_Control\obj\Debug\SimatSoft.ControlBasic.pdb

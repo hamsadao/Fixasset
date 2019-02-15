@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Controls:Controls xmlns:Controls="http://www.simat.co.th">
+	<Menu>
+		<IDCTRL>Form_002010_Department</IDCTRL>
+		<IDDESC>ID:002010(Department)</IDDESC>
+	</Menu> 
+	<Menu>
+    <IDCTRL>LBL_DepartmentNo</IDCTRL>
+	<IDDESC>Department No:</IDDESC>
+  </Menu>
+    <Menu>
+    <IDCTRL>LBL_DepartmentName</IDCTRL>
+	<IDDESC>Department Name:</IDDESC>
+  </Menu>
+	<Menu>
+		<IDCTRL>LBL_CompanyNo</IDCTRL>
+		<IDDESC>Company:</IDDESC>
+	</Menu>
+</Controls:Controls>

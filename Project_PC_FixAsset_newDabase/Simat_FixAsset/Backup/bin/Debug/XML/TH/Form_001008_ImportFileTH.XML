@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="yes"?>
+<Controls:http_x003A__x002F__x002F_www.simat.co.th xmlns:Controls="http://www.simat.co.th">
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>Form_001008_ImportFile</IDCTRL>
+		<IDDESC>ID:001008(Import File)</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_FilePath</IDCTRL>
+		<IDDESC>ไฟล์พาร์ธ:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_Facility</IDCTRL>
+		<IDDESC>บริษัท:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>LBL_FileType</IDCTRL>
+		<IDDESC>ประเภท:</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Asset</IDCTRL>
+		<IDDESC>ข้อมูลอุปกรณ์</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_PurchaseOrder</IDCTRL>
+		<IDDESC>เอกสารสั่งซื้อ</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Supplier</IDCTRL>
+		<IDDESC>ซัพพลายเออร์</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Building</IDCTRL>
+		<IDDESC>หัอง</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Area</IDCTRL>
+		<IDDESC>พื้นที่</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>checkBox_Floor</IDCTRL>
+		<IDDESC>ชั้น</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th">
+		<IDCTRL>sS_ButtonGlass_Browse</IDCTRL>
+		<IDDESC>ค้นหา</IDDESC>
+	</Controls>
+	<Controls xmlns="http://www.simat.co.th" />
+</Controls:http_x003A__x002F__x002F_www.simat.co.th>
